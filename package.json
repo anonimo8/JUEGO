@@ -1,8 +1,11 @@
 {
-  "name": "caminos-de-fe-odyssey3d",
+  "name": "caminos-de-fe-cloudflare-worker",
   "private": true,
+  "version": "12.1.0",
   "scripts": {
-    "deploy": "npx wrangler deploy",
-    "dev": "npx wrangler dev"
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.60.0"
   }
 }

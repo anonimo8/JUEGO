@@ -1,49 +1,38 @@
-CAMINOS DE FE — CLOUDFLARE WORKER STATIC ASSETS (FIXED)
-========================================================
+CAMINOS DE FE — CLOUDFLARE WORKER V12.1 (CDN PROXY FIX)
 
-ESTE PAQUETE ES PARA EL PROYECTO CLOUDFLARE "nx" QUE USA `wrangler deploy`.
+PROBLEMA QUE CORRIGE
+La versión anterior hacía import() de Three.js directamente desde jsDelivr en el navegador.
+En algunos navegadores/redes esa importación falla y aparecía la pantalla:
+"Esta versión necesita conexión para cargar el motor 3D".
 
-CAUSA DEL ERROR ANTERIOR
-------------------------
-El paquete anterior usaba `pages_build_output_dir = "."`, que corresponde a Cloudflare Pages.
-Tu compilación actual está usando `wrangler deploy` (Workers). En Workers, Wrangler necesita
-un script `main` O un directorio de assets configurado con `[assets]`.
+ESTA VERSIÓN
+El navegador ya NO importa Three.js directamente desde jsDelivr.
+Carga rutas del mismo dominio, por ejemplo:
+  /vendor/three/build/three.module.js
 
-CONFIGURACIÓN CORREGIDA
------------------------
-wrangler.toml contiene:
+El Worker de Cloudflare obtiene esos archivos del CDN y Cloudflare los cachea en el edge.
+Esto elimina el problema de CORS/bloqueo del CDN en el navegador.
 
-name = "nx"
-compatibility_date = "2026-11-11"
-
-[assets]
-directory = "./public"
-html_handling = "auto-trailing-slash"
-not_found_handling = "single-page-application"
-
-NO necesitas `main = "src/index.ts"` porque este proyecto es un sitio estático.
-
-ESTRUCTURA
-----------
-/
+ESTRUCTURA EN LA RAÍZ DEL REPOSITORIO
   wrangler.toml
   package.json
-  public/
-    index.html
-    JUGAR_Caminos_de_Fe_Odyssey3D_V12_MotionHD.html
+  src/worker.js
+  public/index.html
+  public/JUGAR_Caminos_de_Fe_Odyssey3D_V12_MotionHD.html
 
-SI USAS GIT / CLOUDFLARE BUILDS
--------------------------------
-1. Coloca TODO el contenido de esta carpeta en la raíz del repositorio.
-2. Build command: déjalo como `npx wrangler deploy` si Cloudflare ya lo configuró así.
-3. No uses Output directory en el dashboard para este Worker; Wrangler toma `./public` de wrangler.toml.
-4. Vuelve a desplegar.
+NO subas el ZIP como archivo. Descomprímelo y sube esos archivos/carpetas a la raíz del repositorio.
 
-SI QUIERES CLOUDLFARE PAGES EN VEZ DE WORKERS
----------------------------------------------
-Crea un proyecto Pages nuevo y usa `public` como Build output directory. No mezcles la
-configuración Pages (`pages_build_output_dir`) con un deployment de Workers (`wrangler deploy`).
+CONFIGURACIÓN CLOUDFLARE
+Build command: ninguno
+Deploy command: npx wrangler deploy
+Root directory: /
 
-NOTA
-----
-Las rutas desconocidas sirven index.html mediante `not_found_handling = "single-page-application"`.
+PRUEBA DESPUÉS DEL DEPLOY
+1. Abre:
+   https://TU-DOMINIO.workers.dev/vendor/three/build/three.module.js
+   Debe mostrarse/descargarse JavaScript y NO el index del juego.
+
+2. Luego abre:
+   https://TU-DOMINIO.workers.dev/
+
+3. Si hubiera otro fallo, la pantalla ahora mostrará el mensaje técnico exacto del navegador.
