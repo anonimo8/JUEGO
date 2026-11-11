@@ -1,9 +1,15 @@
 {
-  "name": "caminos-de-fe-cloudflare-worker",
+  "name": "caminos-de-fe-cloudflare-self-hosted",
   "private": true,
-  "version": "12.1.0",
+  "version": "12.3.0",
+  "engines": { "node": ">=20" },
   "scripts": {
+    "postinstall": "node scripts/vendor-three.mjs",
+    "vendor": "node scripts/vendor-three.mjs",
     "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "three": "0.181.2"
   },
   "devDependencies": {
     "wrangler": "^4.60.0"

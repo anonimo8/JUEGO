@@ -1,0 +1,2 @@
+Esta carpeta se reemplaza automáticamente durante `npm install`.
+El script scripts/vendor-three.mjs copia Three.js 0.181.2 desde node_modules.
