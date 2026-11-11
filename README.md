@@ -1,2 +1,0 @@
-# JUEGO
-JW JUEGO
