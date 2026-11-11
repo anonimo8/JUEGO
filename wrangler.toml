@@ -1,3 +1,7 @@
-name = "caminos-de-fe-odyssey3d"
-pages_build_output_dir = "."
+name = "nx"
 compatibility_date = "2026-11-11"
+
+[assets]
+directory = "./public"
+html_handling = "auto-trailing-slash"
+not_found_handling = "single-page-application"

@@ -1,0 +1,8 @@
+{
+  "name": "caminos-de-fe-odyssey3d",
+  "private": true,
+  "scripts": {
+    "deploy": "npx wrangler deploy",
+    "dev": "npx wrangler dev"
+  }
+}
