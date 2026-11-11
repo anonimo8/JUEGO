@@ -1,3 +1,0 @@
-CDF-V12.3-SELF-HOSTED
-Three.js runtime: local /public/vendor/three
-No browser CDN dependency
