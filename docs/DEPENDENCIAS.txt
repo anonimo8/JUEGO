@@ -1,0 +1,25 @@
+DEPENDENCIAS EXTERNAS DE V12
+============================
+
+MOTOR 3D
+- Three.js 0.181.2
+  https://cdn.jsdelivr.net/npm/three@0.181.2/build/three.module.js
+- Three.js addons
+  https://cdn.jsdelivr.net/npm/three@0.181.2/examples/jsm/
+
+Módulos usados por el juego:
+- utils/SkeletonUtils.js
+- postprocessing/EffectComposer.js
+- postprocessing/RenderPass.js
+- postprocessing/GTAOPass.js
+- postprocessing/UnrealBloomPass.js
+- postprocessing/OutputPass.js
+
+FUENTES DE CONTENIDO
+- jw.org
+- wol.jw.org
+- cms-imgp.jw-cdn.org
+
+NOTA
+Los enlaces de JW/WOL son recursos externos. No se copiaron dentro de este paquete.
+Los gráficos procedurales del mundo, materiales generados por canvas, interfaz, misiones y lógica del juego sí están en index.html.

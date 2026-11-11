@@ -1,0 +1,12 @@
+Caminos_de_Fe_Cloudflare_V12/
+├── index.html
+├── JUGAR_Caminos_de_Fe_Odyssey3D_V12_MotionHD.html
+├── _headers
+├── _redirects
+├── wrangler.toml
+├── README_CLOUDFLARE.txt
+├── docs/
+│   ├── DEPENDENCIAS.txt
+│   └── ESTRUCTURA.txt
+└── source/
+    └── V12_original.html
