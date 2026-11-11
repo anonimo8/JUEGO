@@ -1,7 +1,6 @@
 name = "nx"
+main = "./src/worker.js"
 compatibility_date = "2026-11-11"
 
-[assets]
-directory = "./public"
-html_handling = "auto-trailing-slash"
-not_found_handling = "single-page-application"
+[observability]
+enabled = true

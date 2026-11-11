@@ -1,44 +1,25 @@
-CAMINOS DE FE — CLOUDFLARE V12.3 SELF-HOSTED
+CAMINOS DE FE V12.4 — CORRECCION TOTAL CLOUDFLARE
 
-OBJETIVO
-- El navegador NO usa jsDelivr ni otro CDN para Three.js.
-- Cloudflare instala `three@0.181.2` durante la fase "Instalando".
-- El script `postinstall` copia el motor dentro de `public/vendor/three/`.
-- `npx wrangler deploy` publica esos archivos como assets del mismo dominio.
+ESTA VERSION NO USA public/index.html. El propio Worker sirve el juego.
+Esto evita que Cloudflare siga mostrando un HTML viejo.
 
-ESTRUCTURA EN LA RAIZ DEL REPOSITORIO
-/
-  package.json
-  wrangler.toml
-  scripts/vendor-three.mjs
-  public/index.html
-  public/diagnostico.html
-  public/build-id.txt
-  public/JUGAR_Caminos_de_Fe_Odyssey3D_V12_MotionHD.html
+SUBIR A LA RAIZ DEL REPOSITORIO:
+- wrangler.toml
+- package.json
+- carpeta src/ con worker.js
 
-CONFIGURACION DE CLOUDFLARE
+NO SUBIR el ZIP sin descomprimir.
+NO conservar un wrangler.toml anterior.
+Puede dejar otros archivos en el repo, pero estos tres deben reemplazar los anteriores.
+
+CONFIGURACION CLOUDFLARE:
 Build command: Ninguno
 Deploy command: npx wrangler deploy
 Root directory: /
 
-IMPORTANTE
-1. Extrae el ZIP.
-2. Sube EL CONTENIDO del ZIP a la raiz de animo8/JUEGO (no el ZIP, no una carpeta contenedora adicional).
-3. Haz commit a main.
-4. La nueva compilacion debe mostrar que npm instala `three` y ejecutar:
-   > caminos-de-fe-cloudflare-self-hosted@12.3.0 postinstall
-   > node scripts/vendor-three.mjs
-   ✓ Three.js self-hosted copiado a public/vendor/three
-5. Cuando termine, abre:
-   https://TU-DOMINIO/build-id.txt
-   Debe decir: CDF-V12.3-SELF-HOSTED
-6. Luego abre:
-   https://TU-DOMINIO/diagnostico.html
-   Debe mostrar: MOTOR 3D LOCAL CARGADO CORRECTAMENTE
-7. Finalmente abre la raiz del sitio.
+DESPUES DE IMPLEMENTAR:
+1) Abrir /build-id.txt -> debe decir CDF-V12.4-WORKER-BUNDLE
+2) Abrir /__cdf_status -> debe mostrar worker:true y build CDF-V12.4-WORKER-BUNDLE
+3) Abrir /
 
-SI SIGUE APARECIENDO EL MENSAJE ANTIGUO "Esta versión necesita conexión..."
-- No estas viendo esta V12.3.
-- Verifica /build-id.txt.
-- Haz Ctrl+Shift+R o abre una ventana Incognito.
-- Confirma que la implementacion de Cloudflare corresponde al ultimo commit.
+Si el sitio muestra el mensaje antiguo 'Esta version necesita conexion...' entonces Cloudflare NO esta ejecutando este worker. Ese texto no existe en el Worker V12.4.
