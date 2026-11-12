@@ -1,12 +1,12 @@
-ESTRUCTURA ÚNICA PARA GITHUB/CLOUDFLARE
+CAMINOS DE FE · V13 · NOÉ REFERENCE LEVEL
 
-NO debe existir worker.js en la raíz.
-NO debe existir public/.
-NO mezclar archivos de V12.4, V12.5, V12.7.
+Esta entrega conserva las demás expediciones, pero rehace Noé como nivel contextual de referencia.
 
-Cloudflare:
-Build command: npm run build
-Deploy command: npx wrangler deploy
-Root directory: /
+GitHub debe contener: scripts/, source/, package.json, wrangler.toml, .gitignore y este README.
+Cloudflare: Build command = npm run build | Deploy command = npx wrangler deploy | Root = /
 
-El build genera dist/ con index.html, game.bundle.js, build-id.txt y health.json.
+No subas dist/: Cloudflare la genera durante npm run build.
+
+Noé V13 incluye: mundo violento activo, nefilim como amenaza ambiental, civiles huyendo, ayuda a una familia, encuentro con Noé, 3 entregas de madera, 3 tareas del arca, 3 pares de animales, puerta de memoria, tormenta y entrada al arca. Las perlas quedan como descubrimientos JW/WOL opcionales.
+
+Las escenas concretas son dramatizaciones educativas; Génesis 6 sí describe la tierra como llena de violencia y a los nefilim como poderosos/violentos, pero no detalla incidentes específicos ni alturas exactas.
