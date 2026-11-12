@@ -1,9 +1,6 @@
 name = "nx"
+main = "./worker.js"
 compatibility_date = "2026-11-11"
-
-[assets]
-directory = "./dist"
-html_handling = "auto-trailing-slash"
 
 [observability]
 enabled = true
