@@ -1,0 +1,11 @@
+CAMINOS DE FE V14 — MUNDOS CONTEXTUALES
+
+- Los 24 relatos ya no usan la misma ciudad antigua.
+- Cada relato tiene arquitectura, paisaje, utilería y atmósfera propia.
+- El presente cambia según Hogar, Escuela, Trabajo, Amistades, Cambios, Preocupación, etc.
+- Paletas y accesorios de personajes varían por relato.
+- Noé conserva su campaña contextual especial.
+- Movimiento ágil V13.1 se conserva.
+- Build ID: CDF-V14-CONTEXT-WORLDS
+
+IMPORTANTE: Esta versión mejora variedad y dirección artística, pero los humanos siguen siendo procedurales. Para lograr personajes fotorrealistas tipo AAA/GTA se requieren assets GLB/PBR de alta calidad; en este chat temporal no está disponible la generación de imágenes/3D personalizada.
