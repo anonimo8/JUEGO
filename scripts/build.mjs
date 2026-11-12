@@ -1,6 +1,6 @@
 import { build } from 'esbuild';
 import { mkdir, rm, copyFile, writeFile, readFile } from 'node:fs/promises';
-const BUILD='CDF-V12.6-BUNDLED';
+const BUILD='CDF-V12.8-GITHUB-CLEAN';
 await rm('dist',{recursive:true,force:true});
 await mkdir('dist',{recursive:true});
 await build({
