@@ -1,17 +1,8 @@
 {
-  "name": "caminos-de-fe-cloudflare",
+  "name": "caminos-de-fe-v15-lite",
+  "version": "15.0.0",
   "private": true,
-  "version": "14.0.0",
-  "type": "module",
   "scripts": {
-    "build": "node scripts/build.mjs",
-    "deploy": "wrangler deploy"
-  },
-  "dependencies": {
-    "three": "0.181.2",
-    "esbuild": "^0.25.0"
-  },
-  "devDependencies": {
-    "wrangler": "4.160.1"
+    "build": "node scripts/build.mjs"
   }
 }
