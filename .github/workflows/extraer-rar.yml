@@ -1,51 +1,25 @@
 
-name: Extraer archivo RAR
-
-on:
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  extraer:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Descargar repositorio
-        uses: actions/checkout@v4
-
-      - name: Instalar extractor
+      - name: Descomprimir ZIP en MAIN
         run: |
-          sudo apt-get update
-          sudo apt-get install -y p7zip-full
+          echo "Buscando archivo ZIP..."
 
-     
-      - name: Buscar y descomprimir RAR
-        run: |
-          echo "Buscando archivo RAR..."
-          find . -type f
-
-          ARCHIVE=$(find . -type f -iname "*.rar" -print -quit)
+          ARCHIVE=$(find . -type f -iname "Caminos_de_Fe_V25_1_LISTO_CLOUDFLARE_GIT.zip" -not -path "./.git/*" -print -quit)
 
           if [ -z "$ARCHIVE" ]; then
-            echo "ERROR: No se encontró ningún archivo RAR"
+            echo "ERROR: No se encontro el ZIP"
+            find . -maxdepth 3 -type f
             exit 1
           fi
 
           echo "Archivo encontrado: $ARCHIVE"
 
-          mkdir -p extraido
+          sudo apt-get update
+          sudo apt-get install -y unzip
 
-          7z x "$ARCHIVE" -o./extraido -y
+          unzip -o "$ARCHIVE" -d .
 
-          echo "Extracción completada"
+          echo "ZIP descomprimido correctamente"
 
-
-      - name: Mover todo a la raiz de MAIN
-        run: |
-          find extraido -mindepth 1 -maxdepth 1 -exec mv -t . -- {} +
-          rmdir extraido
 
 
       - name: Guardar archivos en GitHub
