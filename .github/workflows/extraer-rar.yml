@@ -1,26 +1,39 @@
 
-      - name: Descomprimir ZIP en MAIN
-        run: |
-          echo "Buscando archivo ZIP..."
+name: Extraer ZIP en MAIN
 
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extraer:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar extractor ZIP
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unzip
+
+      - name: Buscar y descomprimir ZIP
+        run: |
           ARCHIVE=$(find . -type f -iname "Caminos_de_Fe_V25_1_LISTO_CLOUDFLARE_GIT.zip" -not -path "./.git/*" -print -quit)
 
           if [ -z "$ARCHIVE" ]; then
             echo "ERROR: No se encontro el ZIP"
-            find . -maxdepth 3 -type f
+            find . -maxdepth 4 -type f
             exit 1
           fi
 
-          echo "Archivo encontrado: $ARCHIVE"
-
-          sudo apt-get update
-          sudo apt-get install -y unzip
-
+          echo "ZIP encontrado: $ARCHIVE"
           unzip -o "$ARCHIVE" -d .
 
-          echo "ZIP descomprimido correctamente"
-
-      - name: Guardar archivos en GitHub
+      - name: Guardar archivos en MAIN
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
