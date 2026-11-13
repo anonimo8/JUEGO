@@ -20,9 +20,27 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y p7zip-full
 
-      - name: Descomprimir RAR
+     
+      - name: Buscar y descomprimir RAR
         run: |
-          7z x "Caminos_de_Fe_V25_COMPLETO_PERSONAJES_UNICOS.rar" -o./ -y
+          echo "Buscando archivo RAR..."
+          find . -type f
+
+          ARCHIVE=$(find . -type f -iname "*.rar" -print -quit)
+
+          if [ -z "$ARCHIVE" ]; then
+            echo "ERROR: No se encontró ningún archivo RAR"
+            exit 1
+          fi
+
+          echo "Archivo encontrado: $ARCHIVE"
+
+          mkdir -p extraido
+
+          7z x "$ARCHIVE" -o./extraido -y
+
+          echo "Extracción completada"
+
 
       - name: Guardar archivos en GitHub
         run: |
