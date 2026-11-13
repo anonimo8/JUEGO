@@ -1,0 +1,13 @@
+CAMINOS DE FE · V25.1 COMPLETA — BIBLIOTECA DE DESAFÍOS
+
+Corrección solicitada:
+- Después de contestar una de las seis preguntas, se permanece en la sección.
+- Aparece una felicitación con respuesta, fuente y progreso (1/6 ... 6/6).
+- Para las preguntas 1 a 5: botones "Siguiente pregunta pendiente" y "Ver biblioteca de desafíos".
+- Al completar las seis: felicitación final y botón "Volver al juego".
+- Se puede volver a revisar las respuestas y consultar enlaces de JW.org.
+- También se puede cerrar la biblioteca voluntariamente antes de acabar; se guarda lo conseguido.
+- Las recompensas y los retos anteriores siguen intactos.
+
+Esta es una versión completa. Descomprimir en una carpeta nueva, sin sustituir archivos sueltos.
+Las ilustraciones originales de JW.org se configuran localmente mediante el instalador incluido, si se desea.

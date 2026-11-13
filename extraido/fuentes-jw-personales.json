@@ -1,0 +1,179 @@
+[
+  {
+    "id": "noe",
+    "nombre": "Noé",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-patriarcas-epoca-jueces/noe-condeno-mundo/",
+    "codigo_publicacion": "1102025902",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/2/arca-de-noe/",
+    "codigo_anterior": "1102016015"
+  },
+  {
+    "id": "abrahan",
+    "nombre": "Abrahán y Sara",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-patriarcas-epoca-jueces/abrahan-primer-hombre-peleo-guerra-justa/",
+    "codigo_publicacion": "1102025904",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/3/abrahan-sara/",
+    "codigo_anterior": "1102016018"
+  },
+  {
+    "id": "jose",
+    "nombre": "José",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-patriarcas-epoca-jueces/jose-resistio-tentacion/",
+    "codigo_publicacion": "1102025908",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/suenos-faraon/",
+    "codigo_anterior": "1102016025"
+  },
+  {
+    "id": "moises",
+    "nombre": "Moisés",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-patriarcas-epoca-jueces/moises-tomo-la-mejor-decision/",
+    "codigo_publicacion": "1102025910",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/mar-rojo-se-divide/",
+    "codigo_anterior": ""
+  },
+  {
+    "id": "rahab",
+    "nombre": "Rahab",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-patriarcas-epoca-jueces/rahab-puso-jehova-encima-su-propio-pueblo/",
+    "codigo_publicacion": "1102025914",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rahab-esconde-espias/",
+    "codigo_anterior": "1102016040"
+  },
+  {
+    "id": "rut",
+    "nombre": "Rut y Noemí",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-patriarcas-epoca-jueces/noemi-rut-permanecieron-juntas-momentos-dificiles/",
+    "codigo_publicacion": "1102025915",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rut-noemi/",
+    "codigo_anterior": "1102016043"
+  },
+  {
+    "id": "samuel",
+    "nombre": "Samuel",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-patriarcas-epoca-jueces/samuel-anuncio-valor-mensaje-jehova/",
+    "codigo_publicacion": "1102025921",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/dios-llama-samuel/",
+    "codigo_anterior": "1102016047"
+  },
+  {
+    "id": "jonatan",
+    "nombre": "David y Jonatán",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/jonatan-necesito-valor-ser-leal/",
+    "codigo_publicacion": "1102025922",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/7/jonatan-david/",
+    "codigo_anterior": "1102016052"
+  },
+  {
+    "id": "abigail",
+    "nombre": "Abigaíl",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/abigail-mujer-apago-furia-hombres/",
+    "codigo_publicacion": "1102025924",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/abigail-mujer-apago-furia-hombres/",
+    "codigo_anterior": "1102025924"
+  },
+  {
+    "id": "salomon",
+    "nombre": "Salomón",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/rey-salomon-templo/",
+    "codigo_publicacion": "1102016054",
+    "imagen_verificada": "https://cms-imgp.jw-cdn.org/img/p/1102016054/univ/art/1102016054_univ_lsr_lg.jpg"
+  },
+  {
+    "id": "viuda",
+    "nombre": "La viuda de Sarepta",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/viuda-sarepta-valiente-en-medio-desesperacion/",
+    "codigo_publicacion": "1102025930",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/viuda-sarepta-elias/",
+    "codigo_anterior": "1102016058"
+  },
+  {
+    "id": "naaman",
+    "nombre": "Naamán",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/naaman-leproso/",
+    "codigo_publicacion": "1102016061"
+  },
+  {
+    "id": "jonas",
+    "nombre": "Jonás",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/jonas/",
+    "codigo_publicacion": "1102016064"
+  },
+  {
+    "id": "josias",
+    "nombre": "Josías",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/josias-hizo-pueblo-volviera-a-jehova/",
+    "codigo_publicacion": "1102025936",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/dios-rey-josias/",
+    "codigo_anterior": "1102016066"
+  },
+  {
+    "id": "daniel",
+    "nombre": "Daniel",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/daniel-decidio-no-contaminarse/",
+    "codigo_publicacion": "1102025937",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/daniel-hoyo-leones/",
+    "codigo_anterior": "1102016074"
+  },
+  {
+    "id": "ester",
+    "nombre": "Ester",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/ester-si-tengo-que-morir-morire/",
+    "codigo_publicacion": "1102025939",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/reina-ester-salva-pueblo/",
+    "codigo_anterior": "1102016075"
+  },
+  {
+    "id": "nehemias",
+    "nombre": "Nehemías",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/nehemias-reconstruyo-muralla/",
+    "codigo_publicacion": "1102025940",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/murallas-jerusalen-nehemias/",
+    "codigo_anterior": "1102016077"
+  },
+  {
+    "id": "maria",
+    "nombre": "María",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-mesias-cristianos-primer-siglo/maria-tuvo-valor-decir-si/",
+    "codigo_publicacion": "1102025942",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/11/angel-gabriel-visita-maria/",
+    "codigo_anterior": ""
+  },
+  {
+    "id": "samaritano",
+    "nombre": "El buen samaritano",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/historias-biblicas/6/jesus-ensena/",
+    "codigo_publicacion": "1101978152"
+  },
+  {
+    "id": "hijo",
+    "nombre": "El hijo que regresó",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/jesus/ministerio-al-este-jordan/parabola-hijo-perdido/",
+    "codigo_publicacion": "1102014686"
+  },
+  {
+    "id": "panes",
+    "nombre": "Jesús alimenta a la multitud",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/12/jesus-alimenta-miles/",
+    "codigo_publicacion": "1102016093"
+  },
+  {
+    "id": "pedro",
+    "nombre": "Pedro",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-mesias-cristianos-primer-siglo/pedro-soy-hombre-pecador/",
+    "codigo_publicacion": "1102025945",
+    "pagina_anterior": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/13/pedro-niega-jesus-tres-veces/",
+    "codigo_anterior": "1102016099"
+  },
+  {
+    "id": "dorcas",
+    "nombre": "Dorcas",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Dorcas/",
+    "codigo_publicacion": ""
+  },
+  {
+    "id": "lidia",
+    "nombre": "Lidia",
+    "pagina": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Lidia/",
+    "codigo_publicacion": "1102016109"
+  }
+]

@@ -1,0 +1,176 @@
+﻿Relato,Personaje visible,Primera etapa,Episodios que presenta,Índices originales
+noe,Noé,1,3,"0,10,5"
+noe,Esposa de Noé,1,2,"6,2"
+noe,Sem,2,1,1
+noe,Cam,2,2,"7,4"
+noe,Esposa de Sem,3,1,8
+noe,Jafet,4,1,3
+noe,Esposa de Jafet,4,1,9
+abrahan,Abrahán,1,1,0
+abrahan,Sara,1,4,"6,2,4,5"
+abrahan,Taré,2,1,1
+abrahan,Lot,4,2,"3,7"
+abrahan,Eliezer de Damasco,6,1,8
+abrahan,Isaac,6,1,9
+abrahan,Ismael,6,1,10
+abrahan,Agar,6,1,11
+jose,José,1,5,"0,1,2,3,5"
+jose,Jacob,1,2,"6,18"
+jose,Rubén,1,1,7
+jose,Judá,1,3,"8,4,17"
+jose,Potifar,2,1,9
+jose,Esposa de Potifar,2,1,10
+jose,Encargado de la prisión,3,1,11
+jose,Copero principal,3,1,12
+jose,Panadero principal,3,1,13
+jose,Faraón,4,1,14
+jose,Benjamín,5,1,15
+jose,Simeón,5,1,16
+moises,Moisés,1,4,"0,1,3,4"
+moises,Jokébed,1,1,6
+moises,"Míriam, hermana de Moisés",1,1,7
+moises,Hija del faraón,2,1,8
+moises,Aarón,2,2,"9,2"
+moises,Faraón de Egipto,3,1,10
+moises,Pueblo de Israel,4,1,11
+moises,Míriam,6,1,5
+moises,Míriam y las mujeres,6,1,12
+rahab,Rahab,1,4,"0,2,4,5"
+rahab,Rey de Jericó,1,1,6
+rahab,Dos espías israelitas,2,1,1
+rahab,Primer espía,2,1,7
+rahab,Segundo espía,2,1,8
+rahab,Familia de Rahab,4,1,3
+rahab,Padre de Rahab,4,1,9
+rahab,Josué,5,1,10
+rut,Noemí,1,3,"0,1,3"
+rut,Elimélec,1,1,6
+rut,Orpá,2,1,7
+rut,Rut,3,2,"2,5"
+rut,Segadores de Boaz,4,1,8
+rut,Boaz,5,2,"4,9"
+rut,Pariente con prioridad de rescate,5,1,10
+samuel,Samuel,1,4,"0,1,4,5"
+samuel,Ana,1,1,6
+samuel,Elcaná,1,1,7
+samuel,Elí,2,3,"8,2,3"
+samuel,Hofní,4,1,9
+samuel,Finehás,4,1,10
+jonatan,Jonatán,1,3,"0,3,4"
+jonatan,Saúl,1,2,"6,2"
+jonatan,David,2,3,"1,10,5"
+jonatan,Mical,2,1,7
+jonatan,Abner,3,1,8
+jonatan,Ahimélec,4,1,9
+abigail,David,1,2,"0,5"
+abigail,Mensajeros de David,1,1,6
+abigail,Nabal,2,1,1
+abigail,Joven servidor de Nabal,2,2,"7,2"
+abigail,Abigaíl,3,3,"8,3,4"
+abigail,Siervas de Abigaíl,4,1,9
+abigail,"Nabal, final de su historia",6,1,10
+salomon,Salomón,1,2,"0,1"
+salomon,"David, padre de Salomón",1,1,6
+salomon,Dos madres ante el rey,2,1,7
+salomon,La madre que protegió a su hijo,3,2,"2,8"
+salomon,Hiram de Tiro,4,2,"3,9"
+salomon,"Hiram, artesano de bronce",4,1,10
+salomon,Sacerdotes del templo,5,2,"4,11"
+salomon,Reina de Saba,6,2,"5,12"
+viuda,Viuda de Sarepta,1,5,"0,2,8,4,5"
+viuda,Hijo de la viuda,1,1,6
+viuda,Elías,2,3,"1,7,3"
+viuda,Hijo enfermo,5,1,9
+naaman,Naamán,1,3,"0,2,5"
+naaman,Esposa de Naamán,1,1,6
+naaman,Niña israelita,2,2,"1,7"
+naaman,Rey de Siria,3,1,8
+naaman,Eliseo,4,1,3
+naaman,Guehazí,4,1,9
+naaman,Siervos de Naamán,5,2,"4,10"
+jonas,Jonás,1,5,"0,2,3,4,5"
+jonas,Marineros,1,2,"6,1"
+jonas,Capitán del barco,2,1,7
+jonas,Rey de Nínive,4,1,8
+jonas,Habitantes de Nínive,4,1,9
+jonas,Jonás ante la planta,6,1,10
+josias,Josías,1,4,"0,1,4,5"
+josias,Amón,1,1,6
+josias,Hilquías,2,2,"7,2"
+josias,Jeremías,2,1,10
+josias,Safán,3,2,"8,3"
+josias,Huldá,5,1,9
+daniel,Daniel,1,3,"0,2,4"
+daniel,Ananías,1,1,6
+daniel,Misael,1,1,7
+daniel,Azarías,1,1,8
+daniel,Funcionarios del reino,2,1,1
+daniel,Funcionarios celosos,2,1,9
+daniel,Rey Darío,4,3,"3,10,5"
+daniel,Ángel enviado por Dios,5,1,11
+ester,Ester,1,4,"0,3,4,5"
+ester,Rey Asuero,1,1,6
+ester,Mardoqueo,2,2,"1,2"
+ester,Hamán,2,1,7
+ester,Hatac,3,1,8
+ester,Judíos de Susa,4,1,9
+ester,Harboná,5,1,10
+nehemias,Nehemías,1,4,"0,1,2,5"
+nehemias,Hananí,1,1,6
+nehemias,Rey Artajerjes,2,1,7
+nehemias,Eliasib,3,1,8
+nehemias,Constructores de Jerusalén,4,1,3
+nehemias,Sanbalat,4,1,9
+nehemias,Sanbalat y Tobías,5,1,4
+nehemias,Tobías,5,1,10
+nehemias,Trabajadores de Jerusalén,6,1,11
+maria,María,1,4,"0,2,4,5"
+maria,"José, prometido de María",1,1,6
+maria,Gabriel,2,3,"1,7,3"
+maria,Elisabet,4,1,8
+maria,Zacarías,5,1,9
+maria,"Jesús, recién nacido",6,1,10
+samaritano,Jesús,1,2,"0,5"
+samaritano,Experto en la Ley,1,1,6
+samaritano,Viajero de la parábola,2,1,1
+samaritano,Asaltantes de la parábola,2,1,7
+samaritano,Sacerdote de la parábola,3,1,2
+samaritano,Levita de la parábola,3,1,8
+samaritano,Samaritano de la parábola,4,3,"3,9,4"
+samaritano,Posadero de la parábola,5,1,10
+hijo,Jesús,1,1,0
+hijo,Padre de la parábola,1,2,"6,4"
+hijo,Hijo menor de la parábola,2,3,"1,2,3"
+hijo,Amigos del hijo menor,2,1,7
+hijo,Dueño de los cerdos,3,1,8
+hijo,Trabajadores del padre,4,1,9
+hijo,Siervos de la casa,5,1,10
+hijo,Hijo mayor de la parábola,6,1,5
+panes,Jesús,1,3,"0,2,4"
+panes,Felipe,1,1,6
+panes,Andrés,2,2,"1,8"
+panes,Muchacho de los panes,2,1,7
+panes,Muchacho con panes,4,1,3
+panes,Multitud reunida,4,1,9
+panes,Discípulos que recogieron las sobras,5,1,10
+panes,Discípulos,6,1,5
+pedro,Pedro,1,5,"0,1,2,3,5"
+pedro,Sirvienta del patio,1,1,6
+pedro,Otro testigo del patio,2,1,7
+pedro,Pariente de Malco,3,1,8
+pedro,Jesús,4,2,"9,4"
+pedro,Juan,5,1,10
+dorcas,Dorcas / Tabita,1,1,0
+dorcas,Viudas de Jope,1,1,6
+dorcas,Discípulos de Jope,2,2,"1,9"
+dorcas,Dos mensajeros de Jope,2,1,7
+dorcas,Viuda de Jope,3,1,2
+dorcas,Pedro,3,3,"8,3,4"
+dorcas,Creyentes de Jope,6,2,"5,10"
+lidia,Lidia,1,4,"0,2,3,4"
+lidia,Mujeres que oraban junto al río,1,1,6
+lidia,Pablo,2,2,"1,5"
+lidia,Silas,2,1,7
+lidia,Timoteo,3,1,8
+lidia,Casa de Lidia,4,1,9
+lidia,Carcelero de Filipos,5,1,10

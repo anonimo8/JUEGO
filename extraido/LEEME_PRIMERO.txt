@@ -1,0 +1,35 @@
+CAMINOS DE FE V25 — JUEGO COMPLETO (NO ES UN PARCHE)
+=====================================================
+
+CÓMO ABRIR
+1. Extrae todo este ZIP en una carpeta nueva, sin sobrescribir V23/V24.
+2. Abre index.html en Chrome o Edge. Para hosting, sube todo el contenido de la carpeta extraída.
+3. La partida de V25 usa su propio almacenamiento; no sustituye ni borra las partidas previas.
+
+CONTENIDO
+- 24 relatos con preguntas bíblicas, perlas y minijuegos.
+- 175 personajes o grupos identificados dentro de sus capítulos (278 intervenciones conservadas).
+- CADA PERSONAJE APARECE UNA SOLA VEZ POR RELATO. Sus intervenciones en distintas etapas se reúnen dentro de la misma conversación.
+- Cada personaje se presenta con nombre y breve biografía/rol; los acontecimientos se leen en páginas cronológicas.
+- 6 marcadores de pergamino 📜 por capítulo. Desbloquea esas escenas en el mapa para reconstruir el relato; ya no quedan desbloqueadas automáticamente al escuchar solo a un protagonista.
+- El botón "Conocer a todo el elenco" muestra los personajes una sola vez y permite desplegar cada intervención documentada.
+- Se incluyen relaciones bíblicas concretas con referencias en las fichas de algunos protagonistas, por ejemplo Sem-Abrahán y Rut-David.
+- La sección de preguntas usa el banco verificado integrado en V24.
+- Recompensas y felicitaciones al completar desafíos.
+
+CONTROLES
+WASD o flechas: caminar; mouse: seleccionar y desplazarse hacia un punto;
+E: escuchar o avanzar diálogo; B: cuaderno; C: elenco; G: guía;
+P: cambiar protagonista; Tab y Enter: botones y opciones.
+
+IMÁGENES
+Las imágenes panorámicas alternativas incluidas son originales del juego, NO son ilustraciones oficiales de JW.org. Este ZIP no redistribuye ilustraciones originales de JW.org. El iniciador de uso personal de Windows permite intentar descargar ilustraciones en tu equipo; puede fallar en algunas páginas y no ha sido verificado en Windows desde esta sesión.
+
+PRECISIÓN DE LAS FUENTES
+Las conversaciones son paráfrasis didácticas, NO transcripciones literales de los personajes bíblicos. Algunos vínculos familiares han sido cotejados con Perspicacia y textos bíblicos; no afirmamos haber auditado todas las publicaciones que existen sobre las 175 identidades. En la ficha se muestra la referencia disponible.
+
+CALIDAD Y PRUEBAS
+- Verificado por software: 24 relatos, 175 nombres sin duplicados en sus escenas y 278 episodios conservados.
+- Navegador Chromium: comprobados José, el elenco, la conversación en 7 páginas, 6 marcadores de relato, la recopilación independiente del primer momento, 24 mapas de personajes y la visualización móvil de Rut.
+- Sin errores JavaScript en esas pruebas; sin desbordamiento horizontal en la prueba móvil.
+- No se ha ejecutado el instalador local en Windows.

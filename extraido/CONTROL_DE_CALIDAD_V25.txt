@@ -1,0 +1,9 @@
+V25 / COMPROBACIÓN DE CONSTRUCCIÓN
+24 relatos
+175 personajes o grupos únicos por escena
+278 episodios conservados sin pérdida
+6 marcadores de secuencia por capítulo
+144 preguntas del banco V24 + 12 de la Atalaya 2026 (se conservaron las fuentes existentes)
+JS: node --check superado
+Chromium pruebas de navegación y móvil realizadas con documentos y recursos locales
+Importante: el nivel visual sigue siendo SVG 2D, no 3D cinematográfico.

@@ -1,0 +1,3331 @@
+{
+  "fecha_revision": "2026-11-12",
+  "preguntas_relatos": {
+    "noe": [
+      {
+        "id": "noe-fuente-v24-1",
+        "story_id": "noe",
+        "pregunta": "¿Qué hicieron algunos ángeles antes del Diluvio y qué consecuencias tuvo?",
+        "respuesta": "Bajaron a la Tierra y tuvieron hijos que se volvieron violentos.",
+        "opciones": [
+          "Hicieron un acuerdo con Noé.",
+          "Bajaron a la Tierra y tuvieron hijos que se volvieron violentos.",
+          "Construyeron ciudades para Noé.",
+          "Enseñaron a cultivar la tierra."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Examina quiénes eran los hombres violentos antes del Diluvio.",
+        "nivel": "Explorador",
+        "fuente": "Noé · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/2/arca-de-noe/",
+        "textoClave": "Los ángeles tuvieron hijos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "noe-fuente-v24-2",
+        "story_id": "noe",
+        "pregunta": "¿Cómo se llamaban los tres hijos de Noé mencionados en la lección?",
+        "respuesta": "Sem, Cam y Jafet.",
+        "opciones": [
+          "Isaac, Esaú y Jacob.",
+          "Rubén, Simeón y Leví.",
+          "Sem, Cam y Jafet.",
+          "Caín, Abel y Set."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca el párrafo donde se presenta a la familia de Noé.",
+        "nivel": "Explorador",
+        "fuente": "Noé · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/2/arca-de-noe/",
+        "textoClave": "Sem, Cam y Jafet",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "noe-fuente-v24-3",
+        "story_id": "noe",
+        "pregunta": "¿Qué debía lograr el arca según las instrucciones que recibió Noé?",
+        "respuesta": "Salvar a su familia y a muchos animales del Diluvio.",
+        "opciones": [
+          "Transportar mercancías a Egipto.",
+          "Proteger únicamente a los animales pequeños.",
+          "Servir de templo para los vecinos.",
+          "Salvar a su familia y a muchos animales del Diluvio."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue para qué fue construida el arca.",
+        "nivel": "Investigador",
+        "fuente": "Noé · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/2/arca-de-noe/",
+        "textoClave": "Noé y su familia podrían sobrevivir",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "noe-fuente-v24-4",
+        "story_id": "noe",
+        "pregunta": "¿Qué hizo Noé además de construir el arca?",
+        "respuesta": "Advirtió del Diluvio a otras personas.",
+        "opciones": [
+          "Advirtió del Diluvio a otras personas.",
+          "Dejó de hablar con sus vecinos.",
+          "Organizó un ejército contra los violentos.",
+          "Se trasladó a vivir a Egipto."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "¿Qué hizo durante los años que duró la construcción?",
+        "nivel": "Investigador",
+        "fuente": "Noé · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/2/arca-de-noe/",
+        "textoClave": "Noé avisó a la gente",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "noe-fuente-v24-5",
+        "story_id": "noe",
+        "pregunta": "¿Qué es correcto decir acerca de cuánto duró la construcción del arca según la lección?",
+        "respuesta": "La publicación menciona aproximadamente 50 años, no una fecha exacta dada en Génesis.",
+        "opciones": [
+          "La construcción terminó en menos de un mes.",
+          "La publicación menciona aproximadamente 50 años, no una fecha exacta dada en Génesis.",
+          "Génesis especifica exactamente 100 años.",
+          "Noé construyó el arca en siete días."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Observa si se presenta una cifra aproximada o una fecha exacta.",
+        "nivel": "Maestro",
+        "fuente": "Noé · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/2/arca-de-noe/",
+        "textoClave": "unos 50 años",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "noe-fuente-v24-6",
+        "story_id": "noe",
+        "pregunta": "¿Qué instrucción recibió Noé poco antes de empezar a llover?",
+        "respuesta": "Entrar con su familia en el arca porque faltaban siete días.",
+        "opciones": [
+          "Destruir el arca después de construirla.",
+          "Esperar afuera hasta que terminara la lluvia.",
+          "Entrar con su familia en el arca porque faltaban siete días.",
+          "Salir a buscar un lugar nuevo para el arca."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Esta pregunta procede de un libro más reciente sobre Noé.",
+        "nivel": "Experto",
+        "fuente": "Noé · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-patriarcas-epoca-jueces/noe-condeno-mundo/",
+        "textoClave": "en siete días iba a empezar",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "abrahan": [
+      {
+        "id": "abrahan-fuente-v24-1",
+        "story_id": "abrahan",
+        "pregunta": "¿En qué ciudad vivía Abrahán cuando recibió el llamado a marcharse?",
+        "respuesta": "Ur.",
+        "opciones": [
+          "Susa.",
+          "Ur.",
+          "Nínive.",
+          "Jericó."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Identifica la ciudad mencionada al principio.",
+        "nivel": "Explorador",
+        "fuente": "Abrahán y Sara · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/3/abrahan-sara/",
+        "textoClave": "otra ciudad, que se llamaba Ur",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abrahan-fuente-v24-2",
+        "story_id": "abrahan",
+        "pregunta": "¿Qué le pidió Jehová a Abrahán que dejara atrás?",
+        "respuesta": "Su casa y sus familiares para ir a un lugar que le mostraría.",
+        "opciones": [
+          "Toda su riqueza para hacerse rey.",
+          "Las tiendas y el ganado para vivir en Babilonia.",
+          "Su casa y sus familiares para ir a un lugar que le mostraría.",
+          "Su familia para quedarse solo en Ur."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca las instrucciones del inicio del viaje.",
+        "nivel": "Explorador",
+        "fuente": "Abrahán y Sara · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/3/abrahan-sara/",
+        "textoClave": "Deja tu casa y a tus familiares",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abrahan-fuente-v24-3",
+        "story_id": "abrahan",
+        "pregunta": "¿Quiénes aparecen acompañando a Abrahán al comenzar el viaje?",
+        "respuesta": "Sara, Taré y Lot.",
+        "opciones": [
+          "Rebeca, Isaac y Esaú.",
+          "José, Benjamín y Jacob.",
+          "Ana, Samuel y Elí.",
+          "Sara, Taré y Lot."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "La publicación identifica a los acompañantes por nombre.",
+        "nivel": "Investigador",
+        "fuente": "Abrahán y Sara · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/3/abrahan-sara/",
+        "textoClave": "su padre, Taré, y su sobrino Lot",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abrahan-fuente-v24-4",
+        "story_id": "abrahan",
+        "pregunta": "¿Qué edad tenía Abrahán cuando su familia llegó a Canaán, según el relato?",
+        "respuesta": "75 años.",
+        "opciones": [
+          "75 años.",
+          "40 años.",
+          "99 años.",
+          "120 años."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca la edad expresada junto al lugar de destino.",
+        "nivel": "Investigador",
+        "fuente": "Abrahán y Sara · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/3/abrahan-sara/",
+        "textoClave": "Abrahán tenía 75 años",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abrahan-fuente-v24-5",
+        "story_id": "abrahan",
+        "pregunta": "¿Qué detalle hacía difícil imaginar cómo se cumpliría la promesa sobre sus descendientes?",
+        "respuesta": "Abrahán y Sara eran mayores y todavía no tenían hijos.",
+        "opciones": [
+          "La familia tenía demasiados hijos.",
+          "Abrahán y Sara eran mayores y todavía no tenían hijos.",
+          "Sara era reina de Egipto.",
+          "Abrahán ya tenía un gran ejército."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Distingue la promesa de la situación familiar en ese momento.",
+        "nivel": "Maestro",
+        "fuente": "Abrahán y Sara · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/3/abrahan-sara/",
+        "textoClave": "no tenían hijos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abrahan-fuente-v24-6",
+        "story_id": "abrahan",
+        "pregunta": "¿Qué promesa relacionaba a Abrahán con otras personas más allá de su familia?",
+        "respuesta": "Por medio de él llegarían bendiciones a personas de toda la Tierra.",
+        "opciones": [
+          "Su familia gobernaría todas las ciudades de Ur.",
+          "Recibiría un ejército para conquistar Egipto.",
+          "Por medio de él llegarían bendiciones a personas de toda la Tierra.",
+          "Nadie más entraría en la tierra de Canaán."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca qué alcance tendría la promesa.",
+        "nivel": "Experto",
+        "fuente": "Abrahán y Sara · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/3/abrahan-sara/",
+        "textoClave": "gente de toda la Tierra",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "jose": [
+      {
+        "id": "jose-fuente-v24-1",
+        "story_id": "jose",
+        "pregunta": "¿Quién informó al faraón de que José podía interpretar sueños?",
+        "respuesta": "Un sirviente del faraón que conocía a José.",
+        "opciones": [
+          "Un sirviente del faraón que conocía a José.",
+          "El padre de José, Jacob.",
+          "Potifar al visitar la prisión.",
+          "Benjamín durante un viaje."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "¿Qué hizo que José fuera llamado desde la cárcel?",
+        "nivel": "Explorador",
+        "fuente": "José · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/suenos-faraon/",
+        "textoClave": "un sirviente del faraón",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jose-fuente-v24-2",
+        "story_id": "jose",
+        "pregunta": "¿Qué significaban los sueños del faraón según la explicación de José?",
+        "respuesta": "Siete años de abundancia seguidos de siete de hambre.",
+        "opciones": [
+          "Tres años de viaje y cinco de cosecha.",
+          "Siete años de abundancia seguidos de siete de hambre.",
+          "Siete años de guerra seguidos de paz.",
+          "Cuarenta días de tormenta y cuarenta de sequía."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Observa el contraste entre los dos períodos.",
+        "nivel": "Explorador",
+        "fuente": "José · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/suenos-faraon/",
+        "textoClave": "siete años de hambre",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jose-fuente-v24-3",
+        "story_id": "jose",
+        "pregunta": "¿Qué medida recomendó José ante el hambre anunciada?",
+        "respuesta": "Almacenar alimento durante los años de abundancia.",
+        "opciones": [
+          "Vender todos los campos durante los años buenos.",
+          "Dejar de sembrar hasta que terminara la crisis.",
+          "Almacenar alimento durante los años de abundancia.",
+          "Enviar a todos los egipcios a Canaán."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca la solución práctica propuesta al faraón.",
+        "nivel": "Investigador",
+        "fuente": "José · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/suenos-faraon/",
+        "textoClave": "almacene alimento",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jose-fuente-v24-4",
+        "story_id": "jose",
+        "pregunta": "¿Cómo reaccionó el faraón a la recomendación de José?",
+        "respuesta": "Lo nombró responsable con gran autoridad en Egipto.",
+        "opciones": [
+          "Lo devolvió inmediatamente a la prisión.",
+          "Le pidió que viajara a Babilonia.",
+          "Lo nombró sacerdote de un templo egipcio.",
+          "Lo nombró responsable con gran autoridad en Egipto."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "¿Qué cargo recibió José después de explicar los sueños?",
+        "nivel": "Investigador",
+        "fuente": "José · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/suenos-faraon/",
+        "textoClave": "Tú serás el segundo hombre",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jose-fuente-v24-5",
+        "story_id": "jose",
+        "pregunta": "¿Por qué sus hermanos no comprendieron quién era el funcionario que los atendía en Egipto?",
+        "respuesta": "José los reconoció, pero ellos no lo reconocieron a él.",
+        "opciones": [
+          "José los reconoció, pero ellos no lo reconocieron a él.",
+          "José utilizó un nombre diferente que revela la Biblia.",
+          "Jacob les había dicho que José era faraón.",
+          "Los hermanos nunca habían visto a José antes."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Lee cómo describe el relato el primer encuentro.",
+        "nivel": "Maestro",
+        "fuente": "José · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/suenos-faraon/",
+        "textoClave": "él los reconoció enseguida",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jose-fuente-v24-6",
+        "story_id": "jose",
+        "pregunta": "¿Qué dos funcionarios compartieron la prisión con José y tuvieron sueños?",
+        "respuesta": "El copero y el panadero del faraón.",
+        "opciones": [
+          "El gobernador y su escriba.",
+          "El copero y el panadero del faraón.",
+          "El sacerdote y el tesorero real.",
+          "Dos hermanos de José."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "En la fuente complementaria se cuenta la etapa de prisión.",
+        "nivel": "Experto",
+        "fuente": "José · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/historias-biblicas/2/jose-en-prisi%C3%B3n/",
+        "textoClave": "su copero y su panadero",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "moises": [
+      {
+        "id": "moises-fuente-v24-1",
+        "story_id": "moises",
+        "pregunta": "¿Qué decisión tomó el faraón después de dejar salir a los israelitas?",
+        "respuesta": "Mandó a su ejército a perseguirlos.",
+        "opciones": [
+          "Hizo un pacto de amistad con Moisés.",
+          "Se fue a vivir a Canaán.",
+          "Mandó a su ejército a perseguirlos.",
+          "Les entregó voluntariamente todo Egipto."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Comprueba cómo cambió de opinión.",
+        "nivel": "Explorador",
+        "fuente": "Moisés · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/mar-rojo-se-divide/",
+        "textoClave": "vamos tras ellos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "moises-fuente-v24-2",
+        "story_id": "moises",
+        "pregunta": "¿Cómo guio Jehová a los israelitas durante el viaje?",
+        "respuesta": "Con una nube de día y fuego de noche.",
+        "opciones": [
+          "Con una estrella y dos mensajeros.",
+          "Solo mediante mapas escritos.",
+          "Con un río que cambiaba de curso.",
+          "Con una nube de día y fuego de noche."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue las señales de día y de noche.",
+        "nivel": "Explorador",
+        "fuente": "Moisés · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/mar-rojo-se-divide/",
+        "textoClave": "una nube durante el día",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "moises-fuente-v24-3",
+        "story_id": "moises",
+        "pregunta": "¿Qué les dijo Moisés a los israelitas al quedar entre el ejército y el mar?",
+        "respuesta": "Que no tuvieran miedo y vieran cómo Jehová los salvaría.",
+        "opciones": [
+          "Que no tuvieran miedo y vieran cómo Jehová los salvaría.",
+          "Que regresaran y se rindieran al faraón.",
+          "Que se dividieran en pequeños grupos.",
+          "Que construyeran rápidamente barcos."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca las palabras de ánimo de Moisés.",
+        "nivel": "Investigador",
+        "fuente": "Moisés · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/mar-rojo-se-divide/",
+        "textoClave": "No tengan miedo. Esperen",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "moises-fuente-v24-4",
+        "story_id": "moises",
+        "pregunta": "¿Qué colocó Jehová entre los egipcios y los israelitas durante la noche?",
+        "respuesta": "La nube que impedía a los egipcios alcanzarlos.",
+        "opciones": [
+          "Una fila de barcos.",
+          "La nube que impedía a los egipcios alcanzarlos.",
+          "Una muralla de ladrillos.",
+          "Una caravana de comerciantes."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Examina qué impedía el ataque durante la noche.",
+        "nivel": "Investigador",
+        "fuente": "Moisés · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/mar-rojo-se-divide/",
+        "textoClave": "movió la nube y la puso",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "moises-fuente-v24-5",
+        "story_id": "moises",
+        "pregunta": "¿Cómo cruzaron los israelitas el mar Rojo?",
+        "respuesta": "Por tierra seca entre dos paredes de agua.",
+        "opciones": [
+          "Nadando mientras los egipcios esperaban.",
+          "Por un puente de madera.",
+          "Por tierra seca entre dos paredes de agua.",
+          "En barcos que construyeron allí."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Observa qué efecto produjo el viento fuerte durante la noche.",
+        "nivel": "Maestro",
+        "fuente": "Moisés · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/mar-rojo-se-divide/",
+        "textoClave": "se formó un camino",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "moises-fuente-v24-6",
+        "story_id": "moises",
+        "pregunta": "¿Qué hicieron los israelitas después de escapar?",
+        "respuesta": "Alabaron a Dios con una canción y celebraron su liberación.",
+        "opciones": [
+          "Regresaron a Egipto para vivir allí.",
+          "Construyeron un nuevo palacio para el faraón.",
+          "Se olvidaron enseguida de lo sucedido.",
+          "Alabaron a Dios con una canción y celebraron su liberación."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Lee qué hicieron al estar seguros al otro lado.",
+        "nivel": "Experto",
+        "fuente": "Moisés · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/4/mar-rojo-se-divide/",
+        "textoClave": "toda la gente alabó a Dios",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "rahab": [
+      {
+        "id": "rahab-fuente-v24-1",
+        "story_id": "rahab",
+        "pregunta": "¿Dónde ocultó Rahab a los dos espías israelitas?",
+        "respuesta": "En el techo de su casa.",
+        "opciones": [
+          "En el palacio del rey.",
+          "Dentro de un pozo seco.",
+          "En un campo de trigo.",
+          "En el techo de su casa."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Busca el lugar exacto en que los ocultó.",
+        "nivel": "Explorador",
+        "fuente": "Rahab · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rahab-esconde-espias/",
+        "textoClave": "en el techo de su casa",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rahab-fuente-v24-2",
+        "story_id": "rahab",
+        "pregunta": "¿Por qué decidió Rahab ayudar a los espías?",
+        "respuesta": "Creía que Jehová estaba con los israelitas.",
+        "opciones": [
+          "Creía que Jehová estaba con los israelitas.",
+          "Quería ser reina de Jericó.",
+          "Esperaba que los espías le pagaran.",
+          "Los espías eran familiares suyos."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Identifica la razón que Rahab dio.",
+        "nivel": "Explorador",
+        "fuente": "Rahab · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rahab-esconde-espias/",
+        "textoClave": "sé que Jehová está con ustedes",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rahab-fuente-v24-3",
+        "story_id": "rahab",
+        "pregunta": "¿Qué señal debía poner Rahab en su ventana?",
+        "respuesta": "Una cuerda roja.",
+        "opciones": [
+          "Una rama de olivo.",
+          "Una cuerda roja.",
+          "Una tela azul.",
+          "Una lámpara encendida."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Recuerda qué debían ver los israelitas al regresar.",
+        "nivel": "Investigador",
+        "fuente": "Rahab · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rahab-esconde-espias/",
+        "textoClave": "una cuerda roja",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rahab-fuente-v24-4",
+        "story_id": "rahab",
+        "pregunta": "¿A quiénes protegía la promesa hecha a Rahab?",
+        "respuesta": "A las personas que estuvieran dentro de su casa.",
+        "opciones": [
+          "Solo a los dos espías.",
+          "A los soldados del rey de Jericó.",
+          "A las personas que estuvieran dentro de su casa.",
+          "A toda la ciudad sin condiciones."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "La condición importaba para la seguridad de la familia.",
+        "nivel": "Investigador",
+        "fuente": "Rahab · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rahab-esconde-espias/",
+        "textoClave": "dentro de tu casa",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rahab-fuente-v24-5",
+        "story_id": "rahab",
+        "pregunta": "¿Cuántas vueltas dieron a Jericó el séptimo día según el relato?",
+        "respuesta": "Siete.",
+        "opciones": [
+          "Una.",
+          "Tres.",
+          "Doce.",
+          "Siete."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue los seis días anteriores del séptimo.",
+        "nivel": "Maestro",
+        "fuente": "Rahab · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rahab-esconde-espias/",
+        "textoClave": "alrededor de la ciudad siete veces",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rahab-fuente-v24-6",
+        "story_id": "rahab",
+        "pregunta": "¿Qué ocurrió con la casa de Rahab al caer las murallas de Jericó?",
+        "respuesta": "Permaneció en pie y ella y su familia se salvaron.",
+        "opciones": [
+          "Permaneció en pie y ella y su familia se salvaron.",
+          "Quedó destruida como todas las demás casas.",
+          "Se convirtió en el palacio del rey.",
+          "Los espías la trasladaron fuera de la ciudad."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Comprueba qué pasó con la casa situada en la muralla.",
+        "nivel": "Experto",
+        "fuente": "Rahab · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rahab-esconde-espias/",
+        "textoClave": "no se cayó",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "rut": [
+      {
+        "id": "rut-fuente-v24-1",
+        "story_id": "rut",
+        "pregunta": "¿Qué pérdidas hicieron que Noemí decidiera regresar de Moab?",
+        "respuesta": "Su esposo y sus dos hijos habían muerto.",
+        "opciones": [
+          "Rut se había ido a Egipto.",
+          "Su esposo y sus dos hijos habían muerto.",
+          "Su esposo fue nombrado rey.",
+          "Había ganado una gran herencia."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Observa las dificultades familiares del inicio.",
+        "nivel": "Explorador",
+        "fuente": "Rut y Noemí · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rut-noemi/",
+        "textoClave": "los hijos de Noemí también murieron",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rut-fuente-v24-2",
+        "story_id": "rut",
+        "pregunta": "¿Cuál fue la diferencia entre las decisiones de Rut y Orpá?",
+        "respuesta": "Orpá regresó a Moab; Rut permaneció con Noemí.",
+        "opciones": [
+          "Rut regresó a Moab y Orpá se quedó.",
+          "Ambas viajaron a Egipto.",
+          "Orpá regresó a Moab; Rut permaneció con Noemí.",
+          "Las dos regresaron a Moab."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca quién decidió quedarse con Noemí.",
+        "nivel": "Explorador",
+        "fuente": "Rut y Noemí · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rut-noemi/",
+        "textoClave": "Orpá se fue, pero Rut se quedó",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rut-fuente-v24-3",
+        "story_id": "rut",
+        "pregunta": "¿Qué compromiso expresó Rut al decidir acompañar a Noemí?",
+        "respuesta": "Aceptó a su pueblo y a su Dios como propios.",
+        "opciones": [
+          "Pidió heredar una casa en Moab.",
+          "Prometió convertirse en gobernadora de Israel.",
+          "Acordó abandonar a Noemí después de la cosecha.",
+          "Aceptó a su pueblo y a su Dios como propios."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Lee lo que Rut dijo sobre su nueva vida.",
+        "nivel": "Investigador",
+        "fuente": "Rut y Noemí · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rut-noemi/",
+        "textoClave": "Tu pueblo será mi pueblo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rut-fuente-v24-4",
+        "story_id": "rut",
+        "pregunta": "¿En qué momento de la cosecha llegaron Rut y Noemí a Israel?",
+        "respuesta": "Al comienzo de la cosecha de cebada.",
+        "opciones": [
+          "Al comienzo de la cosecha de cebada.",
+          "Cuando terminaba la cosecha de aceitunas.",
+          "Durante la siembra del trigo.",
+          "Después de la cosecha de uvas."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Localiza la referencia al momento agrícola.",
+        "nivel": "Investigador",
+        "fuente": "Rut y Noemí · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rut-noemi/",
+        "textoClave": "al comienzo de la cosecha de la cebada",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rut-fuente-v24-5",
+        "story_id": "rut",
+        "pregunta": "¿Dónde comenzó Rut a recoger las espigas que quedaban?",
+        "respuesta": "En el campo de Boaz.",
+        "opciones": [
+          "En los jardines de Saúl.",
+          "En el campo de Boaz.",
+          "En las tierras del faraón.",
+          "En el campo de Elí."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Identifica al dueño del campo.",
+        "nivel": "Maestro",
+        "fuente": "Rut y Noemí · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rut-noemi/",
+        "textoClave": "en el campo de Boaz",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "rut-fuente-v24-6",
+        "story_id": "rut",
+        "pregunta": "¿Qué hizo Boaz para beneficiar a Rut mientras recogía espigas?",
+        "respuesta": "Pidió a sus trabajadores dejarle grano adicional.",
+        "opciones": [
+          "La envió a otra ciudad sin provisiones.",
+          "Le pidió que trabajara exclusivamente de noche.",
+          "Pidió a sus trabajadores dejarle grano adicional.",
+          "Le prohibió regresar al campo."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca cómo Boaz mostró consideración práctica.",
+        "nivel": "Experto",
+        "fuente": "Rut y Noemí · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/rut-noemi/",
+        "textoClave": "dejaran un poco más de grano",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "samuel": [
+      {
+        "id": "samuel-fuente-v24-1",
+        "story_id": "samuel",
+        "pregunta": "¿Cómo se llamaban los dos hijos de Elí que actuaban mal en el tabernáculo?",
+        "respuesta": "Hofní y Finehás.",
+        "opciones": [
+          "Esaú y Jacob.",
+          "Sem y Jafet.",
+          "Hofní y Finehás.",
+          "Caín y Abel."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "La presentación de Elí menciona a sus hijos.",
+        "nivel": "Explorador",
+        "fuente": "Samuel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/dios-llama-samuel/",
+        "textoClave": "Hofní y Finehás",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samuel-fuente-v24-2",
+        "story_id": "samuel",
+        "pregunta": "¿Qué hacían mal los hijos de Elí con los sacrificios?",
+        "respuesta": "Se quedaban con la mejor carne y trataban mal a la gente.",
+        "opciones": [
+          "Daban siempre lo mejor a las viudas.",
+          "Dejaban toda la carne para Samuel.",
+          "Llevaban los sacrificios a las tribus vecinas.",
+          "Se quedaban con la mejor carne y trataban mal a la gente."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Busca el abuso mencionado en el relato.",
+        "nivel": "Explorador",
+        "fuente": "Samuel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/dios-llama-samuel/",
+        "textoClave": "la mejor carne para ellos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samuel-fuente-v24-3",
+        "story_id": "samuel",
+        "pregunta": "¿A quién creyó Samuel que pertenecía la voz que lo llamaba?",
+        "respuesta": "A Elí.",
+        "opciones": [
+          "A Elí.",
+          "A Jonatán.",
+          "A David.",
+          "A Josué."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Lee qué hizo Samuel al escuchar la voz.",
+        "nivel": "Investigador",
+        "fuente": "Samuel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/dios-llama-samuel/",
+        "textoClave": "corrió adonde estaba Elí",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samuel-fuente-v24-4",
+        "story_id": "samuel",
+        "pregunta": "¿Quién comprendió, después de varias llamadas, que Jehová llamaba a Samuel?",
+        "respuesta": "Elí.",
+        "opciones": [
+          "El rey Saúl.",
+          "Elí.",
+          "Hofní.",
+          "Finehás."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Comprueba quién explicó qué contestar.",
+        "nivel": "Investigador",
+        "fuente": "Samuel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/dios-llama-samuel/",
+        "textoClave": "Elí se dio cuenta",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samuel-fuente-v24-5",
+        "story_id": "samuel",
+        "pregunta": "¿Qué mensaje difícil debía comunicar Samuel?",
+        "respuesta": "Que Jehová juzgaría a la familia de Elí por la maldad no corregida.",
+        "opciones": [
+          "Que Elí se convertiría en rey.",
+          "Que no habría más sacerdotes en Israel.",
+          "Que Jehová juzgaría a la familia de Elí por la maldad no corregida.",
+          "Que el tabernáculo debía trasladarse a Egipto."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Piensa por qué Samuel tenía miedo de hablar.",
+        "nivel": "Maestro",
+        "fuente": "Samuel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/dios-llama-samuel/",
+        "textoClave": "voy a castigarlos a él",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samuel-fuente-v24-6",
+        "story_id": "samuel",
+        "pregunta": "¿Qué responsabilidad llegó a tener Samuel entre los israelitas?",
+        "respuesta": "Profeta y juez.",
+        "opciones": [
+          "Faraón de Egipto.",
+          "Rey de Moab.",
+          "Gobernador de Persia.",
+          "Profeta y juez."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Lee cómo terminó la trayectoria de Samuel.",
+        "nivel": "Experto",
+        "fuente": "Samuel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/6/dios-llama-samuel/",
+        "textoClave": "profeta y juez",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "jonatan": [
+      {
+        "id": "jonatan-fuente-v24-1",
+        "story_id": "jonatan",
+        "pregunta": "¿Qué señal esperaba Jonatán antes de subir contra los filisteos?",
+        "respuesta": "Que los filisteos les dijeran que subieran.",
+        "opciones": [
+          "Que un sacerdote tocara la trompeta desde Jerusalén.",
+          "Que los filisteos les dijeran que subieran.",
+          "Que Saúl llegara con un ejército.",
+          "Que David les enviara una carta."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Localiza la señal acordada con su escudero.",
+        "nivel": "Explorador",
+        "fuente": "David y Jonatán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/7/jonatan-david/",
+        "textoClave": "Suban a pelear",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonatan-fuente-v24-2",
+        "story_id": "jonatan",
+        "pregunta": "¿Qué parentesco tenía Jonatán con el rey Saúl?",
+        "respuesta": "Era su hijo mayor.",
+        "opciones": [
+          "Era su sobrino.",
+          "Era su padre.",
+          "Era su hijo mayor.",
+          "Era su hermano menor."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "¿Por qué se esperaba que Jonatán fuera rey?",
+        "nivel": "Explorador",
+        "fuente": "David y Jonatán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/7/jonatan-david/",
+        "textoClave": "El hijo mayor del rey Saúl",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonatan-fuente-v24-3",
+        "story_id": "jonatan",
+        "pregunta": "¿Por qué Jonatán no consideraba a David un rival del que debiera tener envidia?",
+        "respuesta": "Sabía que Jehová había elegido a David como próximo rey.",
+        "opciones": [
+          "David se había negado a reinar.",
+          "Saúl ya había cedido el trono a Jonatán.",
+          "David era extranjero y no podía gobernar.",
+          "Sabía que Jehová había elegido a David como próximo rey."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue los derechos que Jonatán podía esperar de la elección divina.",
+        "nivel": "Investigador",
+        "fuente": "David y Jonatán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/7/jonatan-david/",
+        "textoClave": "Jehová había elegido a David",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonatan-fuente-v24-4",
+        "story_id": "jonatan",
+        "pregunta": "¿Qué objetos regaló Jonatán a David como muestra de amistad?",
+        "respuesta": "Su túnica, espada, arco y cinturón.",
+        "opciones": [
+          "Su túnica, espada, arco y cinturón.",
+          "Un anillo, una corona y un barco.",
+          "Un campo y un palacio.",
+          "Un arca y dos caballos."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca la lista de regalos personales.",
+        "nivel": "Investigador",
+        "fuente": "David y Jonatán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/7/jonatan-david/",
+        "textoClave": "su túnica, su espada, su arco",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonatan-fuente-v24-5",
+        "story_id": "jonatan",
+        "pregunta": "¿Qué hizo Jonatán cuando supo que Saúl quería matar a David?",
+        "respuesta": "Defendió a David ante su padre y lo ayudó.",
+        "opciones": [
+          "Le pidió a David que renunciara a su fe.",
+          "Defendió a David ante su padre y lo ayudó.",
+          "Se unió al plan para matar a David.",
+          "Abandonó Israel para hacerse faraón."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Busca cómo Jonatán protegió a su amigo.",
+        "nivel": "Maestro",
+        "fuente": "David y Jonatán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/7/jonatan-david/",
+        "textoClave": "Si matas a David",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonatan-fuente-v24-6",
+        "story_id": "jonatan",
+        "pregunta": "¿Cómo honró David la memoria de Jonatán después de su muerte?",
+        "respuesta": "Cuidó a Mefibóset, hijo de Jonatán.",
+        "opciones": [
+          "Nombró faraón a Mefibóset.",
+          "Se negó a recibir a su hijo.",
+          "Cuidó a Mefibóset, hijo de Jonatán.",
+          "Ordenó olvidar a toda su familia."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Examina lo que hizo David por la familia de su amigo.",
+        "nivel": "Experto",
+        "fuente": "David y Jonatán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/7/jonatan-david/",
+        "textoClave": "David buscó a Mefibóset",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "abigail": [
+      {
+        "id": "abigail-fuente-v24-1",
+        "story_id": "abigail",
+        "pregunta": "¿Quién era el esposo de Abigaíl en el relato?",
+        "respuesta": "Nabal.",
+        "opciones": [
+          "Salomón.",
+          "Nabal.",
+          "Saúl.",
+          "Elí."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Identifica a los dos hombres entre los que se produjo el conflicto.",
+        "nivel": "Explorador",
+        "fuente": "Abigaíl · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/abigail-mujer-apago-furia-hombres/",
+        "textoClave": "su esposo —Nabal—",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abigail-fuente-v24-2",
+        "story_id": "abigail",
+        "pregunta": "¿Qué actitud de Nabal desencadenó la crisis con David?",
+        "respuesta": "Insultó a David después de que este pidiera alimentos.",
+        "opciones": [
+          "Se ofreció voluntariamente como soldado.",
+          "Dejó sus rebaños al cuidado de David.",
+          "Insultó a David después de que este pidiera alimentos.",
+          "Entregó alimentos sin demora."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca la causa del peligro que sufrió su casa.",
+        "nivel": "Explorador",
+        "fuente": "Abigaíl · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/abigail-mujer-apago-furia-hombres/",
+        "textoClave": "Nabal había provocado a David",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abigail-fuente-v24-3",
+        "story_id": "abigail",
+        "pregunta": "¿Quién informó a Abigaíl del peligro que corría su casa?",
+        "respuesta": "Uno de sus sirvientes.",
+        "opciones": [
+          "El profeta Daniel.",
+          "El faraón.",
+          "Mefibóset.",
+          "Uno de sus sirvientes."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Identifica quién alertó a Abigaíl.",
+        "nivel": "Investigador",
+        "fuente": "Abigaíl · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/abigail-mujer-apago-furia-hombres/",
+        "textoClave": "un sirviente se lo contó",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abigail-fuente-v24-4",
+        "story_id": "abigail",
+        "pregunta": "¿Cuántos hombres armados acompañaban a David según la publicación?",
+        "respuesta": "400.",
+        "opciones": [
+          "400.",
+          "12.",
+          "70.",
+          "1.000."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca la cifra que muestra la gravedad de la crisis.",
+        "nivel": "Investigador",
+        "fuente": "Abigaíl · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/abigail-mujer-apago-furia-hombres/",
+        "textoClave": "400 hombres armados",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abigail-fuente-v24-5",
+        "story_id": "abigail",
+        "pregunta": "¿Qué habían hecho David y sus hombres por los pastores y rebaños de Nabal?",
+        "respuesta": "Los habían protegido de invasores y asaltantes.",
+        "opciones": [
+          "Los habían enviado a Egipto.",
+          "Los habían protegido de invasores y asaltantes.",
+          "Les habían quitado toda la comida.",
+          "Se habían llevado sus animales."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Comprueba por qué David consideró legítimo pedir provisiones.",
+        "nivel": "Maestro",
+        "fuente": "Abigaíl · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/abigail-mujer-apago-furia-hombres/",
+        "textoClave": "protegiendo a este hombre rico",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "abigail-fuente-v24-6",
+        "story_id": "abigail",
+        "pregunta": "¿Qué cualidades se resaltan de Abigaíl al enfrentarse a esa situación?",
+        "respuesta": "Sensatez y valor.",
+        "opciones": [
+          "Indiferencia y cobardía.",
+          "Avaricia y ambición.",
+          "Sensatez y valor.",
+          "Orgullo y violencia."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "El primer párrafo indica qué cualidades necesitaría.",
+        "nivel": "Experto",
+        "fuente": "Abigaíl · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/seamos-valientes-andar-dios/dias-reyes-reconstruccion-jerusalen/abigail-mujer-apago-furia-hombres/",
+        "textoClave": "una mujer hermosa y sensata",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "salomon": [
+      {
+        "id": "salomon-fuente-v24-1",
+        "story_id": "salomon",
+        "pregunta": "¿Qué pidió Salomón al comenzar a reinar?",
+        "respuesta": "Sabiduría para cuidar y gobernar bien al pueblo.",
+        "opciones": [
+          "Convertirse en el hombre más rico del mundo.",
+          "Sabiduría para cuidar y gobernar bien al pueblo.",
+          "Un ejército mayor que el de su padre.",
+          "La construcción inmediata de otro palacio."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Elige lo que pidió primero, no las bendiciones que recibió después.",
+        "nivel": "Explorador",
+        "fuente": "Salomón · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/rey-salomon-templo/",
+        "textoClave": "dame sabiduría para cuidar",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "salomon-fuente-v24-2",
+        "story_id": "salomon",
+        "pregunta": "¿Qué le concedió Jehová a Salomón además de sabiduría, según la lección?",
+        "respuesta": "Riquezas y la posibilidad de una vida larga si obedecía.",
+        "opciones": [
+          "El gobierno permanente sobre Egipto.",
+          "La capacidad de no equivocarse jamás.",
+          "Riquezas y la posibilidad de una vida larga si obedecía.",
+          "La promesa de que nunca tendría dificultades."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Distingue el regalo pedido de los regalos adicionales.",
+        "nivel": "Explorador",
+        "fuente": "Salomón · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/rey-salomon-templo/",
+        "textoClave": "También te voy a dar riquezas",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "salomon-fuente-v24-3",
+        "story_id": "salomon",
+        "pregunta": "¿Cuánto tardó en completarse el templo de Salomón?",
+        "respuesta": "Siete años.",
+        "opciones": [
+          "Siete días.",
+          "Cuarenta años.",
+          "Un solo mes.",
+          "Siete años."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "El tiempo se especifica en el párrafo de construcción.",
+        "nivel": "Investigador",
+        "fuente": "Salomón · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/rey-salomon-templo/",
+        "textoClave": "El templo quedó listo en siete años",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "salomon-fuente-v24-4",
+        "story_id": "salomon",
+        "pregunta": "¿Cómo expresó Salomón respeto al dedicar el templo?",
+        "respuesta": "Se arrodilló y pidió a Jehová que aceptara la adoración y las oraciones.",
+        "opciones": [
+          "Se arrodilló y pidió a Jehová que aceptara la adoración y las oraciones.",
+          "Se proclamó dios delante de Israel.",
+          "Prohibió a otros acercarse al templo.",
+          "Pidió que le atribuyeran el mérito a él solo."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca qué hizo durante la dedicación.",
+        "nivel": "Investigador",
+        "fuente": "Salomón · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/rey-salomon-templo/",
+        "textoClave": "Salomón se arrodilló enfrente del altar",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "salomon-fuente-v24-5",
+        "story_id": "salomon",
+        "pregunta": "¿Qué ocurrió después de la oración de dedicación del templo?",
+        "respuesta": "Cayó fuego del cielo y consumió las ofrendas.",
+        "opciones": [
+          "El pueblo abandonó Jerusalén.",
+          "Cayó fuego del cielo y consumió las ofrendas.",
+          "Se derrumbaron los muros del templo.",
+          "Empezó una hambruna de siete años."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Consulta la señal que siguió a la oración.",
+        "nivel": "Maestro",
+        "fuente": "Salomón · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/rey-salomon-templo/",
+        "textoClave": "cayó fuego del cielo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "salomon-fuente-v24-6",
+        "story_id": "salomon",
+        "pregunta": "¿Quién visitó a Salomón para poner a prueba su sabiduría mediante preguntas difíciles?",
+        "respuesta": "La reina de Saba.",
+        "opciones": [
+          "La hija del faraón.",
+          "La viuda de Sarepta.",
+          "La reina de Saba.",
+          "Rut."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "¿Qué visitante reconoció lo que había oído acerca del rey?",
+        "nivel": "Experto",
+        "fuente": "Salomón · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/rey-salomon-templo/",
+        "textoClave": "la reina de Saba",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "viuda": [
+      {
+        "id": "viuda-fuente-v24-1",
+        "story_id": "viuda",
+        "pregunta": "¿En qué ciudad encontró Elías a la viuda durante la sequía?",
+        "respuesta": "Sarepta.",
+        "opciones": [
+          "Nínive.",
+          "Jericó.",
+          "Susa.",
+          "Sarepta."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Busca la ciudad a la que lo dirigió Jehová.",
+        "nivel": "Explorador",
+        "fuente": "La viuda de Sarepta · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/viuda-sarepta-elias/",
+        "textoClave": "Ve a Sarepta",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "viuda-fuente-v24-2",
+        "story_id": "viuda",
+        "pregunta": "¿Qué recursos le quedaban a la viuda cuando Elías le pidió alimento?",
+        "respuesta": "Un poco de harina y aceite.",
+        "opciones": [
+          "Un poco de harina y aceite.",
+          "Siete cestas llenas de pan.",
+          "Una reserva grande de trigo.",
+          "Un rebaño de cabras."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Examina la situación de la viuda antes de ayudar a Elías.",
+        "nivel": "Explorador",
+        "fuente": "La viuda de Sarepta · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/viuda-sarepta-elias/",
+        "textoClave": "Solo tengo harina y aceite",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "viuda-fuente-v24-3",
+        "story_id": "viuda",
+        "pregunta": "¿Qué promesa acompañaba la petición de hacer un pan pequeño para Elías?",
+        "respuesta": "La harina y el aceite alcanzarían durante la sequía.",
+        "opciones": [
+          "Su hijo sería rey de Israel.",
+          "La harina y el aceite alcanzarían durante la sequía.",
+          "Elías compraría una casa para la viuda.",
+          "La lluvia comenzaría esa misma tarde."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Busca la promesa concreta relacionada con el alimento.",
+        "nivel": "Investigador",
+        "fuente": "La viuda de Sarepta · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/viuda-sarepta-elias/",
+        "textoClave": "tendrás aceite y harina",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "viuda-fuente-v24-4",
+        "story_id": "viuda",
+        "pregunta": "¿Qué ocurrió con las provisiones de la viuda durante la sequía?",
+        "respuesta": "El jarro de harina y el de aceite no quedaron vacíos.",
+        "opciones": [
+          "La viuda compró todo el grano del mercado.",
+          "El pueblo de Israel le envió alimentos cada semana.",
+          "El jarro de harina y el de aceite no quedaron vacíos.",
+          "Elías tuvo que marcharse por falta de comida."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Observa cómo se cumplió la promesa.",
+        "nivel": "Investigador",
+        "fuente": "La viuda de Sarepta · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/viuda-sarepta-elias/",
+        "textoClave": "nunca se quedaron vacíos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "viuda-fuente-v24-5",
+        "story_id": "viuda",
+        "pregunta": "¿Qué crisis grave afrontó la viuda después de la ayuda con la comida?",
+        "respuesta": "Su hijo enfermó y murió.",
+        "opciones": [
+          "Perdió el camino a su casa.",
+          "Fue encarcelada por el rey.",
+          "Su ciudad quedó bajo el mar.",
+          "Su hijo enfermó y murió."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "¿Qué ocurrió después de la primera provisión?",
+        "nivel": "Maestro",
+        "fuente": "La viuda de Sarepta · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/viuda-sarepta-elias/",
+        "textoClave": "se puso tan enfermo que murió",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "viuda-fuente-v24-6",
+        "story_id": "viuda",
+        "pregunta": "¿Qué hizo Elías al recibir al niño sin vida?",
+        "respuesta": "Lo llevó al cuarto superior y oró a Jehová.",
+        "opciones": [
+          "Lo llevó al cuarto superior y oró a Jehová.",
+          "Lo llevó al palacio del faraón.",
+          "Huyó de Sarepta sin decir nada.",
+          "Ordenó cerrar las puertas de la ciudad."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca qué acciones precedieron a la resurrección.",
+        "nivel": "Experto",
+        "fuente": "La viuda de Sarepta · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/8/viuda-sarepta-elias/",
+        "textoClave": "lo acostó en una cama y oró",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "naaman": [
+      {
+        "id": "naaman-fuente-v24-1",
+        "story_id": "naaman",
+        "pregunta": "¿De dónde era la niña que habló a la esposa de Naamán?",
+        "respuesta": "De Israel; había sido llevada cautiva a Siria.",
+        "opciones": [
+          "De Persia; servía al faraón.",
+          "De Moab; era una sacerdotisa.",
+          "De Israel; había sido llevada cautiva a Siria.",
+          "De Egipto; era princesa."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Lee cómo llegó a vivir lejos de su familia.",
+        "nivel": "Explorador",
+        "fuente": "Naamán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/naaman-leproso/",
+        "textoClave": "había una niña israelita",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "naaman-fuente-v24-2",
+        "story_id": "naaman",
+        "pregunta": "¿A qué profeta recomendó acudir la niña para ayudar a Naamán?",
+        "respuesta": "A Eliseo.",
+        "opciones": [
+          "A Jonás.",
+          "A Samuel.",
+          "A Isaías.",
+          "A Eliseo."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Identifica a quién mencionó la niña.",
+        "nivel": "Explorador",
+        "fuente": "Naamán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/naaman-leproso/",
+        "textoClave": "un profeta de Jehová que se llama Eliseo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "naaman-fuente-v24-3",
+        "story_id": "naaman",
+        "pregunta": "¿Qué le indicó el mensajero de Eliseo a Naamán?",
+        "respuesta": "Sumergirse siete veces en el río Jordán.",
+        "opciones": [
+          "Sumergirse siete veces en el río Jordán.",
+          "Caminar siete veces alrededor de Jericó.",
+          "Beber siete copas de vino.",
+          "Esperar cuarenta días en Egipto."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca la instrucción precisa, no la expectativa de Naamán.",
+        "nivel": "Investigador",
+        "fuente": "Naamán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/naaman-leproso/",
+        "textoClave": "métete siete veces en el río Jordán",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "naaman-fuente-v24-4",
+        "story_id": "naaman",
+        "pregunta": "¿Por qué se molestó Naamán al principio?",
+        "respuesta": "Esperaba una ceremonia impresionante y prefería los ríos de Siria.",
+        "opciones": [
+          "Porque sus sirvientes se negaron a acompañarlo.",
+          "Esperaba una ceremonia impresionante y prefería los ríos de Siria.",
+          "Porque Eliseo le exigió convertirse en rey.",
+          "Porque el Jordán estaba en Egipto."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Contrasta lo que esperaba con lo que se le pidió.",
+        "nivel": "Investigador",
+        "fuente": "Naamán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/naaman-leproso/",
+        "textoClave": "Tenemos ríos mejores en Siria",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "naaman-fuente-v24-5",
+        "story_id": "naaman",
+        "pregunta": "¿Qué obstáculo personal tuvo que superar Naamán para seguir la instrucción?",
+        "respuesta": "Su orgullo y su enfado ante una indicación sencilla.",
+        "opciones": [
+          "No saber el nombre del río.",
+          "La falta de un ejército para cruzar el río.",
+          "Su orgullo y su enfado ante una indicación sencilla.",
+          "La obligación de construir un templo."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "La publicación relata su reacción antes de obedecer.",
+        "nivel": "Maestro",
+        "fuente": "Naamán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/naaman-leproso/",
+        "textoClave": "Naamán se puso furioso",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "naaman-fuente-v24-6",
+        "story_id": "naaman",
+        "pregunta": "¿Quién originó la cadena de ayuda que llevó a Naamán ante Eliseo?",
+        "respuesta": "Una muchacha israelita que servía en su casa.",
+        "opciones": [
+          "El rey de Jericó.",
+          "Un soldado del faraón.",
+          "El sacerdote de Nínive.",
+          "Una muchacha israelita que servía en su casa."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Identifica a la persona de menor posición social en la historia.",
+        "nivel": "Experto",
+        "fuente": "Naamán · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/naaman-leproso/",
+        "textoClave": "La niña quería ayudarlo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "jonas": [
+      {
+        "id": "jonas-fuente-v24-1",
+        "story_id": "jonas",
+        "pregunta": "¿A qué ciudad debía ir Jonás cuando recibió su encargo?",
+        "respuesta": "Nínive.",
+        "opciones": [
+          "Ur.",
+          "Belén.",
+          "Susa.",
+          "Nínive."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue el destino ordenado del barco que tomó.",
+        "nivel": "Explorador",
+        "fuente": "Jonás · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/jonas/",
+        "textoClave": "fuera a Nínive",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonas-fuente-v24-2",
+        "story_id": "jonas",
+        "pregunta": "¿Hacia qué lugar se dirigía el barco en el que huyó Jonás?",
+        "respuesta": "Tarsis.",
+        "opciones": [
+          "Tarsis.",
+          "Jerusalén.",
+          "Jericó.",
+          "Egipto."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca el nombre del destino opuesto al encargo.",
+        "nivel": "Explorador",
+        "fuente": "Jonás · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/jonas/",
+        "textoClave": "un lugar llamado Tarsis",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonas-fuente-v24-3",
+        "story_id": "jonas",
+        "pregunta": "¿Qué ocurrió con la tormenta después de que arrojaron a Jonás al mar?",
+        "respuesta": "Se calmó.",
+        "opciones": [
+          "Destruyó el río Jordán.",
+          "Se calmó.",
+          "Se hizo más fuerte durante cuarenta días.",
+          "Derribó los muros de Nínive."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Lee el desenlace de la decisión en el barco.",
+        "nivel": "Investigador",
+        "fuente": "Jonás · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/jonas/",
+        "textoClave": "la tormenta paró",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonas-fuente-v24-4",
+        "story_id": "jonas",
+        "pregunta": "¿Cuánto tiempo mantuvo Jehová vivo a Jonás dentro del gran pez?",
+        "respuesta": "Tres días.",
+        "opciones": [
+          "Cuarenta días.",
+          "Una hora.",
+          "Tres días.",
+          "Siete años."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Identifica el período exacto que menciona la lección.",
+        "nivel": "Investigador",
+        "fuente": "Jonás · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/jonas/",
+        "textoClave": "por tres días",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonas-fuente-v24-5",
+        "story_id": "jonas",
+        "pregunta": "¿Cómo respondieron los habitantes de Nínive cuando Jonás finalmente predicó?",
+        "respuesta": "Escucharon la advertencia y cambiaron de conducta.",
+        "opciones": [
+          "Expulsaron a todos los israelitas sin escuchar.",
+          "Construyeron un barco para Jonás.",
+          "Se negaron a cambiar y la ciudad desapareció.",
+          "Escucharon la advertencia y cambiaron de conducta."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Observa qué hizo incluso el rey de Nínive.",
+        "nivel": "Maestro",
+        "fuente": "Jonás · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/jonas/",
+        "textoClave": "Los ninivitas hicieron caso y cambiaron",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "jonas-fuente-v24-6",
+        "story_id": "jonas",
+        "pregunta": "¿Qué quería hacer comprender Jehová a Jonás mediante la planta que se secó?",
+        "respuesta": "Que las personas de Nínive eran más importantes que aquella planta.",
+        "opciones": [
+          "Que las personas de Nínive eran más importantes que aquella planta.",
+          "Que debía construir una casa bajo la planta.",
+          "Que ninguna planta podía crecer en Nínive.",
+          "Que el viaje a Tarsis había sido correcto."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Lee la comparación que cierra el relato.",
+        "nivel": "Experto",
+        "fuente": "Jonás · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/jonas/",
+        "textoClave": "más importantes que cualquier planta",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "josias": [
+      {
+        "id": "josias-fuente-v24-1",
+        "story_id": "josias",
+        "pregunta": "¿A qué edad comenzó Josías a reinar en Judá?",
+        "respuesta": "A los ocho años.",
+        "opciones": [
+          "A los veinte.",
+          "A los veintiséis.",
+          "A los ocho años.",
+          "A los dieciséis."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "En el primer párrafo se distinguen varias edades.",
+        "nivel": "Explorador",
+        "fuente": "Josías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/dios-rey-josias/",
+        "textoClave": "cuando tenía 8 años",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "josias-fuente-v24-2",
+        "story_id": "josias",
+        "pregunta": "¿Qué empezó a hacer Josías cuando tenía veinte años?",
+        "respuesta": "Destruir ídolos y altares por el país.",
+        "opciones": [
+          "Reconstruir las murallas de Nínive.",
+          "Gobernar Egipto.",
+          "Construir un arca de madera.",
+          "Destruir ídolos y altares por el país."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Diferencia las medidas que tomó a los 16, 20 y 26 años.",
+        "nivel": "Explorador",
+        "fuente": "Josías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/dios-rey-josias/",
+        "textoClave": "tenía 20 años, empezó a destruir",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "josias-fuente-v24-3",
+        "story_id": "josias",
+        "pregunta": "¿Quién encontró el rollo de la Ley durante las reparaciones del templo?",
+        "respuesta": "El sumo sacerdote Hilquías.",
+        "opciones": [
+          "El sumo sacerdote Hilquías.",
+          "Samuel.",
+          "El profeta Daniel.",
+          "El rey Artajerjes."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Identifica al descubridor y no al mensajero.",
+        "nivel": "Investigador",
+        "fuente": "Josías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/dios-rey-josias/",
+        "textoClave": "Hilquías, encontró allí en el templo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "josias-fuente-v24-4",
+        "story_id": "josias",
+        "pregunta": "¿Quién llevó el rollo encontrado al rey Josías y se lo leyó?",
+        "respuesta": "Safán, el secretario del rey.",
+        "opciones": [
+          "Mardoqueo, primo de Ester.",
+          "Safán, el secretario del rey.",
+          "Jonatán, hijo de Saúl.",
+          "Abrahán, padre de Isaac."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Distingue al sacerdote que lo encontró del secretario.",
+        "nivel": "Investigador",
+        "fuente": "Josías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/dios-rey-josias/",
+        "textoClave": "Safán, el secretario del rey",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "josias-fuente-v24-5",
+        "story_id": "josias",
+        "pregunta": "¿A quién acudieron para conocer la respuesta de Jehová sobre la situación de Judá?",
+        "respuesta": "A la profetisa Huldá.",
+        "opciones": [
+          "A la reina de Saba.",
+          "A Noemí.",
+          "A la profetisa Huldá.",
+          "A Rut."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca a la mujer nombrada para transmitir el mensaje.",
+        "nivel": "Maestro",
+        "fuente": "Josías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/dios-rey-josias/",
+        "textoClave": "a la profetisa Huldá",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "josias-fuente-v24-6",
+        "story_id": "josias",
+        "pregunta": "¿Qué celebración reanudó Josías después de estudiar la Ley?",
+        "respuesta": "La Pascua.",
+        "opciones": [
+          "La coronación del faraón.",
+          "La fiesta de Purim.",
+          "La dedicación del arca de Noé.",
+          "La Pascua."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Conecta la lectura de la Ley con la medida que tomó.",
+        "nivel": "Experto",
+        "fuente": "Josías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/9/dios-rey-josias/",
+        "textoClave": "Tendremos una fiesta de Pascua",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "daniel": [
+      {
+        "id": "daniel-fuente-v24-1",
+        "story_id": "daniel",
+        "pregunta": "¿Qué rey firmó la orden que amenazaba a Daniel por orar a Jehová?",
+        "respuesta": "Darío el medo.",
+        "opciones": [
+          "Salomón.",
+          "Asuero.",
+          "Darío el medo.",
+          "Saúl."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "¿Quién gobernaba al comenzar el relato?",
+        "nivel": "Explorador",
+        "fuente": "Daniel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/daniel-hoyo-leones/",
+        "textoClave": "Darío el medo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "daniel-fuente-v24-2",
+        "story_id": "daniel",
+        "pregunta": "¿Por qué algunos funcionarios querían tenderle una trampa a Daniel?",
+        "respuesta": "Le tenían envidia por la posición que ocupaba.",
+        "opciones": [
+          "Daniel había prohibido la oración en todo el país.",
+          "Querían invitarlo a una celebración.",
+          "Daniel estaba intentando ser faraón.",
+          "Le tenían envidia por la posición que ocupaba."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Busca el motivo de los acusadores.",
+        "nivel": "Explorador",
+        "fuente": "Daniel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/daniel-hoyo-leones/",
+        "textoClave": "le tenían envidia a Daniel",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "daniel-fuente-v24-3",
+        "story_id": "daniel",
+        "pregunta": "¿Cuántas veces al día tenía por costumbre orar Daniel?",
+        "respuesta": "Tres.",
+        "opciones": [
+          "Tres.",
+          "Una.",
+          "Siete.",
+          "Doce."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Lee la costumbre que aprovecharon para acusarlo.",
+        "nivel": "Investigador",
+        "fuente": "Daniel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/daniel-hoyo-leones/",
+        "textoClave": "tres veces al día",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "daniel-fuente-v24-4",
+        "story_id": "daniel",
+        "pregunta": "¿Qué hizo Daniel después de conocer la orden real?",
+        "respuesta": "Siguió orando a Jehová en su casa.",
+        "opciones": [
+          "Se convirtió en sacerdote de Darío.",
+          "Siguió orando a Jehová en su casa.",
+          "Dejó de orar para siempre.",
+          "Se escondió en Egipto."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "No confundas la orden del rey con la reacción de Daniel.",
+        "nivel": "Investigador",
+        "fuente": "Daniel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/daniel-hoyo-leones/",
+        "textoClave": "le oró a Jehová delante de una ventana abierta",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "daniel-fuente-v24-5",
+        "story_id": "daniel",
+        "pregunta": "¿Qué le ocurrió a Darío durante la noche en que Daniel estuvo entre los leones?",
+        "respuesta": "Estaba tan preocupado que no podía dormir.",
+        "opciones": [
+          "Se volvió sacerdote de Jonás.",
+          "Celebró un banquete sin recordar a Daniel.",
+          "Estaba tan preocupado que no podía dormir.",
+          "Se marchó de Babilonia."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca la reacción del rey antes de amanecer.",
+        "nivel": "Maestro",
+        "fuente": "Daniel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/daniel-hoyo-leones/",
+        "textoClave": "no podía dormir",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "daniel-fuente-v24-6",
+        "story_id": "daniel",
+        "pregunta": "¿Cómo explicó Daniel que no le hubieran hecho daño los leones?",
+        "respuesta": "Un ángel de Jehová les había cerrado la boca.",
+        "opciones": [
+          "Él había domesticado a los animales.",
+          "Los leones ya habían abandonado el foso.",
+          "El rey les había llevado mucha comida.",
+          "Un ángel de Jehová les había cerrado la boca."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Lee la explicación que Daniel dio al rey.",
+        "nivel": "Experto",
+        "fuente": "Daniel · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/daniel-hoyo-leones/",
+        "textoClave": "cerró la boca de los leones",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "ester": [
+      {
+        "id": "ester-fuente-v24-1",
+        "story_id": "ester",
+        "pregunta": "¿Quién crió a Ester cuando vivía en Susa?",
+        "respuesta": "Su primo Mardoqueo.",
+        "opciones": [
+          "El faraón de Egipto.",
+          "El profeta Elías.",
+          "El rey Saúl.",
+          "Su primo Mardoqueo."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Busca su vínculo familiar con Mardoqueo.",
+        "nivel": "Explorador",
+        "fuente": "Ester · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/reina-ester-salva-pueblo/",
+        "textoClave": "la crio su primo Mardoqueo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "ester-fuente-v24-2",
+        "story_id": "ester",
+        "pregunta": "¿Qué recomendación le hizo Mardoqueo a Ester tras su elección como reina?",
+        "respuesta": "Que no dijera de inmediato que era judía.",
+        "opciones": [
+          "Que no dijera de inmediato que era judía.",
+          "Que huyera de Persia esa misma noche.",
+          "Que pidiera al rey construir un arca.",
+          "Que nombrara a Hamán gobernador de Israel."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Identifica el dato que mantuvo reservado.",
+        "nivel": "Explorador",
+        "fuente": "Ester · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/reina-ester-salva-pueblo/",
+        "textoClave": "no le dijera a nadie que era judía",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "ester-fuente-v24-3",
+        "story_id": "ester",
+        "pregunta": "¿Quién ideó la ley para atacar a los judíos del imperio?",
+        "respuesta": "Hamán.",
+        "opciones": [
+          "Daniel.",
+          "Hamán.",
+          "Nehemías.",
+          "Asuero sin intermediarios."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Busca quién se enfureció por la conducta de Mardoqueo.",
+        "nivel": "Investigador",
+        "fuente": "Ester · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/reina-ester-salva-pueblo/",
+        "textoClave": "Hamán era el jefe",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "ester-fuente-v24-4",
+        "story_id": "ester",
+        "pregunta": "¿Qué riesgo asumía Ester al acercarse al rey sin ser convocada?",
+        "respuesta": "Podía morir si el rey no extendía su cetro.",
+        "opciones": [
+          "Iba a ser expulsada automáticamente de Susa.",
+          "Sería enviada de inmediato a Egipto.",
+          "Podía morir si el rey no extendía su cetro.",
+          "Debía entregar todas sus joyas."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "La reacción del rey determinaba si podía sobrevivir.",
+        "nivel": "Investigador",
+        "fuente": "Ester · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/reina-ester-salva-pueblo/",
+        "textoClave": "Si extiende su cetro",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "ester-fuente-v24-5",
+        "story_id": "ester",
+        "pregunta": "¿En qué ocasión reveló Ester que Hamán amenazaba a su pueblo?",
+        "respuesta": "Durante el segundo banquete al que invitó al rey y a Hamán.",
+        "opciones": [
+          "En la ceremonia de su coronación.",
+          "Al salir de Jerusalén.",
+          "Cuando era niña en casa de Mardoqueo.",
+          "Durante el segundo banquete al que invitó al rey y a Hamán."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Fíjate en que Ester organizó más de una reunión.",
+        "nivel": "Maestro",
+        "fuente": "Ester · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/reina-ester-salva-pueblo/",
+        "textoClave": "Durante el segundo banquete",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "ester-fuente-v24-6",
+        "story_id": "ester",
+        "pregunta": "¿Cómo se permitió a los judíos responder a la ley que no podía anularse?",
+        "respuesta": "Mediante otra ley que autorizó su defensa.",
+        "opciones": [
+          "Mediante otra ley que autorizó su defensa.",
+          "Enviándolos a todos a Egipto.",
+          "Prohibiendo todas las reuniones en Persia.",
+          "Ordenando destruir Susa."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca qué medida se tomó después de la muerte de Hamán.",
+        "nivel": "Experto",
+        "fuente": "Ester · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/reina-ester-salva-pueblo/",
+        "textoClave": "podían defenderse cuando los atacaran",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "nehemias": [
+      {
+        "id": "nehemias-fuente-v24-1",
+        "story_id": "nehemias",
+        "pregunta": "¿De qué rey de Persia era sirviente Nehemías?",
+        "respuesta": "De Artajerjes.",
+        "opciones": [
+          "De Artajerjes.",
+          "De Saúl.",
+          "De Salomón.",
+          "De Darío el medo en el relato de Daniel."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Identifica al rey que le concedió permiso de viajar.",
+        "nivel": "Explorador",
+        "fuente": "Nehemías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/murallas-jerusalen-nehemias/",
+        "textoClave": "sirviente del rey Artajerjes",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "nehemias-fuente-v24-2",
+        "story_id": "nehemias",
+        "pregunta": "¿Qué noticia sobre Jerusalén entristeció a Nehemías?",
+        "respuesta": "Las murallas y puertas seguían destruidas y el pueblo estaba expuesto.",
+        "opciones": [
+          "Los habitantes habían terminado un puente.",
+          "Las murallas y puertas seguían destruidas y el pueblo estaba expuesto.",
+          "El templo de Salomón acababa de inaugurarse.",
+          "La ciudad tenía demasiado alimento."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Busca qué faltaba reparar en la ciudad.",
+        "nivel": "Explorador",
+        "fuente": "Nehemías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/murallas-jerusalen-nehemias/",
+        "textoClave": "no están bien protegidos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "nehemias-fuente-v24-3",
+        "story_id": "nehemias",
+        "pregunta": "¿Qué hizo Nehemías antes de responder al rey que se ofreció a ayudarlo?",
+        "respuesta": "Oró a Jehová en silencio.",
+        "opciones": [
+          "Huyó del palacio.",
+          "Escribió a los enemigos de Jerusalén.",
+          "Oró a Jehová en silencio.",
+          "Convocó de inmediato al ejército."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Identifica la reacción breve entre pregunta y respuesta.",
+        "nivel": "Investigador",
+        "fuente": "Nehemías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/murallas-jerusalen-nehemias/",
+        "textoClave": "Nehemías oró en silencio",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "nehemias-fuente-v24-4",
+        "story_id": "nehemias",
+        "pregunta": "¿Qué ayuda concreta le dio Artajerjes para la reconstrucción?",
+        "respuesta": "Permiso, protección para el viaje y madera para las puertas.",
+        "opciones": [
+          "Un templo completo ya construido.",
+          "Siete barcos para navegar al mar Rojo.",
+          "Una reserva de doce canastas de pan.",
+          "Permiso, protección para el viaje y madera para las puertas."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Lee qué recursos ofreció el rey.",
+        "nivel": "Investigador",
+        "fuente": "Nehemías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/murallas-jerusalen-nehemias/",
+        "textoClave": "le dio madera para hacer las puertas",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "nehemias-fuente-v24-5",
+        "story_id": "nehemias",
+        "pregunta": "¿Cómo protegió Nehemías a los trabajadores cuando se anunció un ataque?",
+        "respuesta": "Puso guardias mientras seguían trabajando.",
+        "opciones": [
+          "Puso guardias mientras seguían trabajando.",
+          "Ordenó abandonar las murallas.",
+          "Entregó la ciudad a sus enemigos.",
+          "Trasladó a todos al desierto."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Distingue la vigilancia de dejar el proyecto.",
+        "nivel": "Maestro",
+        "fuente": "Nehemías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/murallas-jerusalen-nehemias/",
+        "textoClave": "puso guardias para proteger",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "nehemias-fuente-v24-6",
+        "story_id": "nehemias",
+        "pregunta": "¿En cuánto tiempo terminaron las murallas y puertas de Jerusalén?",
+        "respuesta": "En 52 días.",
+        "opciones": [
+          "En tres días.",
+          "En 52 días.",
+          "En siete años.",
+          "En cuarenta años."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Busca la duración especificada al final del relato.",
+        "nivel": "Experto",
+        "fuente": "Nehemías · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/10/murallas-jerusalen-nehemias/",
+        "textoClave": "en solo 52 días",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "maria": [
+      {
+        "id": "maria-fuente-v24-1",
+        "story_id": "maria",
+        "pregunta": "¿En qué ciudad vivía María cuando la visitó Gabriel?",
+        "respuesta": "Nazaret, en Galilea.",
+        "opciones": [
+          "Jericó.",
+          "Susa.",
+          "Ur.",
+          "Nazaret, en Galilea."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Lee la introducción del relato.",
+        "nivel": "Explorador",
+        "fuente": "María · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/11/angel-gabriel-visita-maria/",
+        "textoClave": "vivía en la ciudad de Nazaret",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "maria-fuente-v24-2",
+        "story_id": "maria",
+        "pregunta": "¿Con quién se iba a casar María?",
+        "respuesta": "Con José, que era carpintero.",
+        "opciones": [
+          "Con José, que era carpintero.",
+          "Con el rey Asuero.",
+          "Con el profeta Daniel.",
+          "Con el sacerdote Elí."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Identifica el oficio de su futuro esposo.",
+        "nivel": "Explorador",
+        "fuente": "María · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/11/angel-gabriel-visita-maria/",
+        "textoClave": "un carpintero que se llamaba José",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "maria-fuente-v24-3",
+        "story_id": "maria",
+        "pregunta": "¿Qué nombre debía poner María a su hijo según Gabriel?",
+        "respuesta": "Jesús.",
+        "opciones": [
+          "Moisés.",
+          "Jesús.",
+          "Juan.",
+          "Samuel."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Busca el nombre que el ángel indicó.",
+        "nivel": "Investigador",
+        "fuente": "María · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/11/angel-gabriel-visita-maria/",
+        "textoClave": "Tienes que llamarlo Jesús",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "maria-fuente-v24-4",
+        "story_id": "maria",
+        "pregunta": "¿Qué anunció Gabriel acerca del futuro Reino de Jesús?",
+        "respuesta": "Que duraría para siempre.",
+        "opciones": [
+          "Que gobernaría únicamente Nazaret.",
+          "Que terminaría al nacer Juan el Bautista.",
+          "Que duraría para siempre.",
+          "Que duraría exactamente siete años."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Separa el nombre del niño de la duración del Reino anunciado.",
+        "nivel": "Investigador",
+        "fuente": "María · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/11/angel-gabriel-visita-maria/",
+        "textoClave": "su Reino durará para siempre",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "maria-fuente-v24-5",
+        "story_id": "maria",
+        "pregunta": "¿A quién visitó María después de recibir el anuncio?",
+        "respuesta": "A su pariente Elisabet.",
+        "opciones": [
+          "A Rut en Moab.",
+          "A Noemí en Belén.",
+          "A la reina Ester en Persia.",
+          "A su pariente Elisabet."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Localiza a la familiar que también esperaba un hijo.",
+        "nivel": "Maestro",
+        "fuente": "María · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/11/angel-gabriel-visita-maria/",
+        "textoClave": "María fue a visitar a Elisabet",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "maria-fuente-v24-6",
+        "story_id": "maria",
+        "pregunta": "¿Cómo recibió José la aclaración de que debía casarse con María?",
+        "respuesta": "Un ángel se le apareció en un sueño.",
+        "opciones": [
+          "Un ángel se le apareció en un sueño.",
+          "Moisés se lo escribió en una piedra.",
+          "El faraón le envió una carta.",
+          "Unos soldados le dieron la orden."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Distingue la visita de Gabriel a María del mensaje a José.",
+        "nivel": "Experto",
+        "fuente": "María · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/11/angel-gabriel-visita-maria/",
+        "textoClave": "un ángel se le apareció en un sueño",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "samaritano": [
+      {
+        "id": "samaritano-fuente-v24-1",
+        "story_id": "samaritano",
+        "pregunta": "¿Qué pregunta motivó a Jesús a contar el ejemplo del buen samaritano?",
+        "respuesta": "Quién debía considerarse prójimo.",
+        "opciones": [
+          "Dónde se había perdido un cordero.",
+          "Quién sería el próximo rey de Israel.",
+          "Quién debía considerarse prójimo.",
+          "Cuántos panes había para alimentar a la multitud."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Encuentra la duda que abrió la conversación.",
+        "nivel": "Explorador",
+        "fuente": "El buen samaritano · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/historias-biblicas/6/jesus-ensena/",
+        "textoClave": "Quién es mi prójimo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samaritano-fuente-v24-2",
+        "story_id": "samaritano",
+        "pregunta": "¿Qué le ocurrió al viajero judío camino a Jericó?",
+        "respuesta": "Unos ladrones lo asaltaron y lo dejaron malherido.",
+        "opciones": [
+          "Se convirtió en rey de la ciudad.",
+          "Perdió una cosecha de cebada.",
+          "Su familia lo nombró sacerdote.",
+          "Unos ladrones lo asaltaron y lo dejaron malherido."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue quién necesitaba ayuda.",
+        "nivel": "Explorador",
+        "fuente": "El buen samaritano · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/historias-biblicas/6/jesus-ensena/",
+        "textoClave": "unos ladrones lo asaltaron",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samaritano-fuente-v24-3",
+        "story_id": "samaritano",
+        "pregunta": "¿Qué hicieron el sacerdote y el levita al ver al hombre herido?",
+        "respuesta": "Pasaron de largo sin socorrerlo.",
+        "opciones": [
+          "Pasaron de largo sin socorrerlo.",
+          "Lo llevaron inmediatamente a una posada.",
+          "Se quedaron a curarlo durante una semana.",
+          "Pidieron ayuda a los soldados romanos."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca la diferencia entre ellos y el samaritano.",
+        "nivel": "Investigador",
+        "fuente": "El buen samaritano · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/historias-biblicas/6/jesus-ensena/",
+        "textoClave": "siguió andando",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samaritano-fuente-v24-4",
+        "story_id": "samaritano",
+        "pregunta": "¿Quién se detuvo a ayudar al hombre golpeado?",
+        "respuesta": "Un samaritano.",
+        "opciones": [
+          "Un comerciante de Susa.",
+          "Un samaritano.",
+          "Un funcionario egipcio.",
+          "El rey Saúl."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Identifica al personaje central de la comparación.",
+        "nivel": "Investigador",
+        "fuente": "El buen samaritano · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/historias-biblicas/6/jesus-ensena/",
+        "textoClave": "Es un samaritano",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samaritano-fuente-v24-5",
+        "story_id": "samaritano",
+        "pregunta": "¿Qué hizo el samaritano con las heridas y el cuidado del viajero?",
+        "respuesta": "Las atendió y lo llevó a un lugar seguro para recuperarse.",
+        "opciones": [
+          "Lo entregó a los ladrones.",
+          "Lo envió al desierto sin agua.",
+          "Las atendió y lo llevó a un lugar seguro para recuperarse.",
+          "Lo dejó solo junto al camino."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Lee las acciones concretas que mostró.",
+        "nivel": "Maestro",
+        "fuente": "El buen samaritano · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/historias-biblicas/6/jesus-ensena/",
+        "textoClave": "le echa una medicina en las heridas",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "samaritano-fuente-v24-6",
+        "story_id": "samaritano",
+        "pregunta": "¿Qué enseñanza práctica dio Jesús al terminar el relato?",
+        "respuesta": "Tratar a otras personas con la misma compasión que el samaritano.",
+        "opciones": [
+          "Ayudar únicamente a quienes piensan como uno.",
+          "Evitar a los extranjeros en dificultades.",
+          "Aceptar que no se puede ayudar a ningún desconocido.",
+          "Tratar a otras personas con la misma compasión que el samaritano."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Localiza la aplicación final que dio Jesús.",
+        "nivel": "Experto",
+        "fuente": "El buen samaritano · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/historias-biblicas/6/jesus-ensena/",
+        "textoClave": "ve y trata a otras personas",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "hijo": [
+      {
+        "id": "hijo-fuente-v24-1",
+        "story_id": "hijo",
+        "pregunta": "¿Por qué Jesús contó la historia del hijo perdido en ese contexto?",
+        "respuesta": "Para explicar cómo valorar a quienes se arrepienten y regresan a Dios.",
+        "opciones": [
+          "Para explicar cómo valorar a quienes se arrepienten y regresan a Dios.",
+          "Para enseñar a construir una casa de piedra.",
+          "Para dar instrucciones sobre una cosecha de trigo.",
+          "Para comparar los ejércitos de Roma y Persia."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca qué criticaban algunos de Jesús.",
+        "nivel": "Explorador",
+        "fuente": "El hijo que regresó · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/jesus/ministerio-al-este-jordan/parabola-hijo-perdido/",
+        "textoClave": "un pecador se arrepiente de corazón",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "hijo-fuente-v24-2",
+        "story_id": "hijo",
+        "pregunta": "¿Qué pidió el hijo menor a su padre antes de marcharse?",
+        "respuesta": "Su parte de la herencia, aunque el padre seguía vivo.",
+        "opciones": [
+          "El pago de todos los jornaleros.",
+          "Su parte de la herencia, aunque el padre seguía vivo.",
+          "El cargo de gobernante de la ciudad.",
+          "Una invitación a la corte del faraón."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Lee por qué su petición era prematura.",
+        "nivel": "Explorador",
+        "fuente": "El hijo que regresó · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/jesus/ministerio-al-este-jordan/parabola-hijo-perdido/",
+        "textoClave": "dame la parte que me toca",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "hijo-fuente-v24-3",
+        "story_id": "hijo",
+        "pregunta": "¿Qué hizo el hijo menor al llegar a un país lejano?",
+        "respuesta": "Malgastó su herencia llevando una vida desenfrenada.",
+        "opciones": [
+          "Construyó un templo en la ciudad.",
+          "Dedicó sus bienes a los pobres.",
+          "Malgastó su herencia llevando una vida desenfrenada.",
+          "Devolvió toda la herencia a su padre."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Distingue la conducta que lo dejó sin recursos.",
+        "nivel": "Investigador",
+        "fuente": "El hijo que regresó · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/jesus/ministerio-al-este-jordan/parabola-hijo-perdido/",
+        "textoClave": "malgastó su herencia",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "hijo-fuente-v24-4",
+        "story_id": "hijo",
+        "pregunta": "¿En qué trabajo terminó el hijo cuando llegó la escasez?",
+        "respuesta": "Cuidando cerdos en el campo de otro hombre.",
+        "opciones": [
+          "Gobernando una provincia.",
+          "Pastoreando ovejas para su hermano.",
+          "Construyendo la muralla de Jerusalén.",
+          "Cuidando cerdos en el campo de otro hombre."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Lee en qué situación terminó por falta de dinero.",
+        "nivel": "Investigador",
+        "fuente": "El hijo que regresó · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/jesus/ministerio-al-este-jordan/parabola-hijo-perdido/",
+        "textoClave": "a sus campos a cuidar cerdos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "hijo-fuente-v24-5",
+        "story_id": "hijo",
+        "pregunta": "¿Qué decisión tomó el hijo al recapacitar?",
+        "respuesta": "Regresar a su padre y reconocer su error.",
+        "opciones": [
+          "Regresar a su padre y reconocer su error.",
+          "Buscar más dinero para seguir lejos.",
+          "Culpar al padre de todo lo sucedido.",
+          "Exigir una segunda herencia sin regresar."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca qué planeó decir cuando regresara.",
+        "nivel": "Maestro",
+        "fuente": "El hijo que regresó · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/jesus/ministerio-al-este-jordan/parabola-hijo-perdido/",
+        "textoClave": "Me iré y volveré a la casa de mi padre",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "hijo-fuente-v24-6",
+        "story_id": "hijo",
+        "pregunta": "¿Cómo reaccionó el padre al verlo regresar desde lejos?",
+        "respuesta": "Corrió a recibirlo, lo abrazó y lo besó con cariño.",
+        "opciones": [
+          "Le exigió abandonar de nuevo el pueblo.",
+          "Corrió a recibirlo, lo abrazó y lo besó con cariño.",
+          "Le cerró la puerta sin hablar.",
+          "Envió soldados a expulsarlo."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Busca el gesto del padre cuando lo vio.",
+        "nivel": "Experto",
+        "fuente": "El hijo que regresó · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/jesus/ministerio-al-este-jordan/parabola-hijo-perdido/",
+        "textoClave": "Corrió a su encuentro",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "panes": [
+      {
+        "id": "panes-fuente-v24-1",
+        "story_id": "panes",
+        "pregunta": "¿A qué zona llevó Jesús a sus apóstoles para descansar?",
+        "respuesta": "A Betsaida, viajando en barca.",
+        "opciones": [
+          "A Susa, viajando a caballo.",
+          "A Jericó, cruzando el desierto.",
+          "A Ur, con una caravana.",
+          "A Betsaida, viajando en barca."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Lee por qué buscaban un lugar tranquilo.",
+        "nivel": "Explorador",
+        "fuente": "Jesús alimenta a la multitud · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/12/jesus-alimenta-miles/",
+        "textoClave": "en una barca a Betsaida",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "panes-fuente-v24-2",
+        "story_id": "panes",
+        "pregunta": "¿Qué hizo Jesús cuando vio que la multitud lo había seguido?",
+        "respuesta": "La recibió con cariño, curó enfermos y enseñó.",
+        "opciones": [
+          "La recibió con cariño, curó enfermos y enseñó.",
+          "Ordenó a todos marcharse sin escucharlos.",
+          "Se ocultó sin atender a nadie.",
+          "Pidió que construyeran un templo."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Observa si el cansancio lo llevó a desentenderse de los demás.",
+        "nivel": "Explorador",
+        "fuente": "Jesús alimenta a la multitud · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/12/jesus-alimenta-miles/",
+        "textoClave": "recibió a la gente con cariño",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "panes-fuente-v24-3",
+        "story_id": "panes",
+        "pregunta": "¿Qué cantidad de alimento se mencionó inicialmente para la multitud?",
+        "respuesta": "Cinco panes y dos pescados pequeños.",
+        "opciones": [
+          "Un saco de trigo y una jarra de aceite.",
+          "Cinco panes y dos pescados pequeños.",
+          "Siete panes y doce peces.",
+          "Doce canastas de grano."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Distingue la comida original de las sobras.",
+        "nivel": "Investigador",
+        "fuente": "Jesús alimenta a la multitud · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/12/jesus-alimenta-miles/",
+        "textoClave": "cinco panes y dos pescaditos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "panes-fuente-v24-4",
+        "story_id": "panes",
+        "pregunta": "¿Cómo organizó Jesús a la multitud antes de repartir la comida?",
+        "respuesta": "Hizo que se sentaran en grupos de 50 y 100.",
+        "opciones": [
+          "Los organizó en grupos de doce soldados.",
+          "Pidió que regresaran al día siguiente.",
+          "Hizo que se sentaran en grupos de 50 y 100.",
+          "Los envió a comprar alimentos por separado."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Busca los tamaños de grupos que se mencionan.",
+        "nivel": "Investigador",
+        "fuente": "Jesús alimenta a la multitud · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/12/jesus-alimenta-miles/",
+        "textoClave": "grupos de 50 y de 100",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "panes-fuente-v24-5",
+        "story_id": "panes",
+        "pregunta": "¿Cuántas canastas se llenaron con lo que sobró?",
+        "respuesta": "Doce.",
+        "opciones": [
+          "Dos.",
+          "Cinco.",
+          "Cuarenta.",
+          "Doce."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "No confundas el número de panes con el de canastas.",
+        "nivel": "Maestro",
+        "fuente": "Jesús alimenta a la multitud · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/12/jesus-alimenta-miles/",
+        "textoClave": "Llenaron 12 canastas",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "panes-fuente-v24-6",
+        "story_id": "panes",
+        "pregunta": "¿Qué hizo Jesús cuando la gente quiso hacerlo rey después del milagro?",
+        "respuesta": "Se retiró a una montaña para orar a su Padre.",
+        "opciones": [
+          "Se retiró a una montaña para orar a su Padre.",
+          "Aceptó inmediatamente el trono del pueblo.",
+          "Ordenó atacar al ejército romano.",
+          "Se fue a vivir al palacio de Herodes."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Identifica por qué rechazó ese momento.",
+        "nivel": "Experto",
+        "fuente": "Jesús alimenta a la multitud · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/12/jesus-alimenta-miles/",
+        "textoClave": "subió a una montaña él solo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "pedro": [
+      {
+        "id": "pedro-fuente-v24-1",
+        "story_id": "pedro",
+        "pregunta": "¿Qué le anunció Jesús a Pedro durante la última cena?",
+        "respuesta": "Que lo negaría tres veces antes de que cantara un gallo.",
+        "opciones": [
+          "Que sería rey de Roma al día siguiente.",
+          "Que construiría el templo de Jerusalén.",
+          "Que permanecería en Galilea sin dificultades.",
+          "Que lo negaría tres veces antes de que cantara un gallo."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue la promesa de Pedro de la predicción de Jesús.",
+        "nivel": "Explorador",
+        "fuente": "Pedro · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/13/pedro-niega-jesus-tres-veces/",
+        "textoClave": "tres veces que no me conoces",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "pedro-fuente-v24-2",
+        "story_id": "pedro",
+        "pregunta": "¿Adónde entró Pedro después de que llevaron a Jesús a casa de Caifás?",
+        "respuesta": "Al patio, donde se acercó a un fuego para calentarse.",
+        "opciones": [
+          "Al patio, donde se acercó a un fuego para calentarse.",
+          "Al interior del templo de Salomón.",
+          "A una prisión de Egipto.",
+          "A la casa de un comerciante de Susa."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca el lugar donde lo reconocieron.",
+        "nivel": "Explorador",
+        "fuente": "Pedro · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/13/pedro-niega-jesus-tres-veces/",
+        "textoClave": "entró al patio de la casa de Caifás",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "pedro-fuente-v24-3",
+        "story_id": "pedro",
+        "pregunta": "¿Cómo reaccionó Pedro al ser reconocido como seguidor de Jesús?",
+        "respuesta": "Negó conocerlo repetidamente.",
+        "opciones": [
+          "Se ofreció para ayudar a los sacerdotes.",
+          "Negó conocerlo repetidamente.",
+          "Confirmó con valentía que era un apóstol.",
+          "Se quedó callado en todas las ocasiones."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Compara su conducta con lo que había prometido.",
+        "nivel": "Investigador",
+        "fuente": "Pedro · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/13/pedro-niega-jesus-tres-veces/",
+        "textoClave": "No sé de qué hablas",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "pedro-fuente-v24-4",
+        "story_id": "pedro",
+        "pregunta": "¿Qué detalle de su forma de hablar ayudó a identificar a Pedro?",
+        "respuesta": "Hablaba como los galileos.",
+        "opciones": [
+          "Solo conocía el idioma persa.",
+          "No podía hablar en absoluto.",
+          "Hablaba como los galileos.",
+          "Hablaba únicamente egipcio."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Lee lo que dijo un hombre que lo reconoció.",
+        "nivel": "Investigador",
+        "fuente": "Pedro · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/13/pedro-niega-jesus-tres-veces/",
+        "textoClave": "hablas como los galileos",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "pedro-fuente-v24-5",
+        "story_id": "pedro",
+        "pregunta": "¿Qué provocó que Pedro recordara las palabras de Jesús?",
+        "respuesta": "El canto del gallo y la mirada de Jesús.",
+        "opciones": [
+          "La visita del rey Herodes.",
+          "La llegada de un mensajero de Egipto.",
+          "El sonido de una trompeta del templo.",
+          "El canto del gallo y la mirada de Jesús."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Busca lo que ocurrió después de su tercera negación.",
+        "nivel": "Maestro",
+        "fuente": "Pedro · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/13/pedro-niega-jesus-tres-veces/",
+        "textoClave": "un gallo cantó",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "pedro-fuente-v24-6",
+        "story_id": "pedro",
+        "pregunta": "¿Qué hizo Pedro al reconocer su error?",
+        "respuesta": "Salió y lloró mucho.",
+        "opciones": [
+          "Salió y lloró mucho.",
+          "Se marchó a reinar a Susa.",
+          "Acusó a otro apóstol.",
+          "Decidió olvidar a Jesús para siempre."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Localiza la última reacción de Pedro en esa secuencia.",
+        "nivel": "Experto",
+        "fuente": "Pedro · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/lecciones-historias-biblia/13/pedro-niega-jesus-tres-veces/",
+        "textoClave": "salió y lloró mucho",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "dorcas": [
+      {
+        "id": "dorcas-fuente-v24-1",
+        "story_id": "dorcas",
+        "pregunta": "¿En qué congregación cristiana vivía Dorcas, también llamada Tabita?",
+        "respuesta": "En Jope.",
+        "opciones": [
+          "En Nínive.",
+          "En Susa.",
+          "En Jope.",
+          "En Ur."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Identifica la ciudad portuaria que menciona la publicación.",
+        "nivel": "Explorador",
+        "fuente": "Dorcas · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Dorcas/",
+        "textoClave": "congregación de Jope",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "dorcas-fuente-v24-2",
+        "story_id": "dorcas",
+        "pregunta": "¿Qué significa el nombre Dorcas, equivalente al arameo Tabita?",
+        "respuesta": "Gacela.",
+        "opciones": [
+          "Paloma.",
+          "Lirio.",
+          "Olivo.",
+          "Gacela."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "La entrada explica la traducción de ambos nombres.",
+        "nivel": "Explorador",
+        "fuente": "Dorcas · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Dorcas/",
+        "textoClave": "ambos significan",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "dorcas-fuente-v24-3",
+        "story_id": "dorcas",
+        "pregunta": "¿Qué ejemplo concreto muestra la generosidad de Dorcas hacia las viudas?",
+        "respuesta": "Confeccionaba prendas para quienes las necesitaban.",
+        "opciones": [
+          "Confeccionaba prendas para quienes las necesitaban.",
+          "Les construía murallas de piedra.",
+          "Organizaba campañas militares.",
+          "Les daba cargos en el palacio."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca una obra de ayuda verificable.",
+        "nivel": "Investigador",
+        "fuente": "Dorcas · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Dorcas/",
+        "textoClave": "prendas de vestir interiores y exteriores",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "dorcas-fuente-v24-4",
+        "story_id": "dorcas",
+        "pregunta": "¿Qué término femenino singular emplea el relato bíblico para Dorcas?",
+        "respuesta": "Discípula.",
+        "opciones": [
+          "Suma sacerdotisa.",
+          "Discípula.",
+          "Reina de Persia.",
+          "Profetisa del faraón."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "Consulta cómo la describe la publicación.",
+        "nivel": "Investigador",
+        "fuente": "Dorcas · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Dorcas/",
+        "textoClave": "la única mujer en las Escrituras",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "dorcas-fuente-v24-5",
+        "story_id": "dorcas",
+        "pregunta": "¿Dónde se encontraba Pedro cuando los discípulos de Jope lo mandaron llamar?",
+        "respuesta": "En Lida.",
+        "opciones": [
+          "Desde Nínive.",
+          "Desde Canaán.",
+          "En Lida.",
+          "Desde Ur."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Identifica dónde estaba Pedro antes de ir a Jope.",
+        "nivel": "Maestro",
+        "fuente": "Dorcas · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Dorcas/",
+        "textoClave": "Pedro estaba en Lida",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "dorcas-fuente-v24-6",
+        "story_id": "dorcas",
+        "pregunta": "¿Qué hizo Pedro antes de decirle a Tabita que se levantara?",
+        "respuesta": "Hizo salir a los demás y oró.",
+        "opciones": [
+          "Reunió a un ejército.",
+          "Fue a ver al faraón.",
+          "Le pidió al rey que firmara una ley.",
+          "Hizo salir a los demás y oró."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Busca cómo ocurrió la resurrección.",
+        "nivel": "Experto",
+        "fuente": "Dorcas · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Dorcas/",
+        "textoClave": "Pedro oró y dijo",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ],
+    "lidia": [
+      {
+        "id": "lidia-fuente-v24-1",
+        "story_id": "lidia",
+        "pregunta": "¿De qué ciudad procedía Lidia, la vendedora de púrpura?",
+        "respuesta": "Tiatira.",
+        "opciones": [
+          "Jericó.",
+          "Belén.",
+          "Ur.",
+          "Tiatira."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue su ciudad de origen del lugar donde escuchó a Pablo.",
+        "nivel": "Explorador",
+        "fuente": "Lidia · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Lidia/",
+        "textoClave": "Procedía de la ciudad de Tiatira",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "lidia-fuente-v24-2",
+        "story_id": "lidia",
+        "pregunta": "¿En qué ciudad estaba Lidia cuando conoció la predicación de Pablo?",
+        "respuesta": "Filipos.",
+        "opciones": [
+          "Filipos.",
+          "Nínive.",
+          "Susa.",
+          "Jerusalén."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Localiza la ciudad en Macedonia.",
+        "nivel": "Explorador",
+        "fuente": "Lidia · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Lidia/",
+        "textoClave": "en Filipos (Macedonia)",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "lidia-fuente-v24-3",
+        "story_id": "lidia",
+        "pregunta": "¿Qué actividad comercial realizaba Lidia?",
+        "respuesta": "Vendía púrpura, tinte o tejidos teñidos.",
+        "opciones": [
+          "Comerciaba con madera para el arca.",
+          "Vendía púrpura, tinte o tejidos teñidos.",
+          "Vendía ganado egipcio.",
+          "Fabricaba armas para soldados romanos."
+        ],
+        "indiceCorrecto": 1,
+        "pista": "La entrada describe el producto, no necesariamente un solo tipo de tela.",
+        "nivel": "Investigador",
+        "fuente": "Lidia · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Lidia/",
+        "textoClave": "vendía púrpura",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "lidia-fuente-v24-4",
+        "story_id": "lidia",
+        "pregunta": "¿Dónde se reunía Lidia con otras mujeres para adorar a Dios?",
+        "respuesta": "Junto a un río, a las afueras de Filipos.",
+        "opciones": [
+          "En la cima del monte Carmelo.",
+          "En la puerta de Jericó.",
+          "Junto a un río, a las afueras de Filipos.",
+          "Dentro del palacio del faraón."
+        ],
+        "indiceCorrecto": 2,
+        "pista": "Consulta qué lugar de reunión tenían en Filipos.",
+        "nivel": "Investigador",
+        "fuente": "Lidia · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Lidia/",
+        "textoClave": "junto a un río",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "lidia-fuente-v24-5",
+        "story_id": "lidia",
+        "pregunta": "¿Cómo reaccionó Lidia después de escuchar el mensaje de Pablo?",
+        "respuesta": "Se bautizó con los de su casa y ofreció hospitalidad.",
+        "opciones": [
+          "Expulsó a Pablo de su casa.",
+          "Regresó a Tiatira sin hablar con nadie.",
+          "Ordenó detener a Silas.",
+          "Se bautizó con los de su casa y ofreció hospitalidad."
+        ],
+        "indiceCorrecto": 3,
+        "pista": "Distingue la respuesta religiosa y su acción práctica.",
+        "nivel": "Maestro",
+        "fuente": "Lidia · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Lidia/",
+        "textoClave": "Después de haber sido bautizada",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      },
+      {
+        "id": "lidia-fuente-v24-6",
+        "story_id": "lidia",
+        "pregunta": "¿Qué hicieron Pablo y Silas al salir de la prisión en Filipos?",
+        "respuesta": "Volvieron a la casa de Lidia y animaron a los hermanos.",
+        "opciones": [
+          "Volvieron a la casa de Lidia y animaron a los hermanos.",
+          "Navegaron inmediatamente a Egipto.",
+          "Visitaron al faraón.",
+          "Construyeron las murallas de Jerusalén."
+        ],
+        "indiceCorrecto": 0,
+        "pista": "Busca a quién visitaron después de ser liberados.",
+        "nivel": "Experto",
+        "fuente": "Lidia · publicación de JW.org",
+        "pasaje": "Frase resaltada en la publicación original",
+        "enlace": "https://www.jw.org/es/biblioteca/libros/Perspicacia-para-comprender-las-Escrituras/Lidia/",
+        "textoClave": "a la casa de Lidia",
+        "tipo": "Pregunta comprobable",
+        "revisado": "2026-11-12"
+      }
+    ]
+  },
+  "atalaya_2026": [
+    {
+      "id": "w26-verificado-01",
+      "story_id": "actualidad",
+      "pregunta": "¿Cuál es el motivo principal para obedecer a Jehová según La Atalaya de septiembre de 2026?",
+      "respuesta": "El amor profundo que sentimos por él.",
+      "opciones": [
+        "El deseo de impresionar a otros.",
+        "El temor a ser castigados por personas.",
+        "La esperanza de ser observados.",
+        "El amor profundo que sentimos por él."
+      ],
+      "indiceCorrecto": 3,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Explorador",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Cómo cultivar “un corazón obediente” · párr. 2",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-septiembre-2026/C%C3%B3mo-cultivar-un-coraz%C3%B3n-obediente/",
+      "textoClave": "La razón principal por la que obedecemos",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-02",
+      "story_id": "actualidad",
+      "pregunta": "¿Por qué el artículo advierte que no basta con obedecer solo cuando otros están mirando?",
+      "respuesta": "La obediencia sincera debe nacer del amor y mantenerse en todo momento.",
+      "opciones": [
+        "La obediencia sincera debe nacer del amor y mantenerse en todo momento.",
+        "Porque nadie se fijará en nuestras acciones.",
+        "Porque lo que hacemos nunca tiene consecuencias.",
+        "Porque las reglas solo importan durante las reuniones."
+      ],
+      "indiceCorrecto": 0,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Investigador",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Cómo cultivar “un corazón obediente” · párr. 2",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-septiembre-2026/C%C3%B3mo-cultivar-un-coraz%C3%B3n-obediente/",
+      "textoClave": "solo cuando otros nos observan",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-03",
+      "story_id": "actualidad",
+      "pregunta": "¿Qué tenían que poner los israelitas en los marcos de sus puertas antes de la décima plaga?",
+      "respuesta": "Sangre de un cordero o cabrito sacrificado.",
+      "opciones": [
+        "Harina y agua.",
+        "Sangre de un cordero o cabrito sacrificado.",
+        "Aceite de oliva.",
+        "Una tela roja."
+      ],
+      "indiceCorrecto": 1,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Investigador",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Cómo cultivar “un corazón obediente” · párr. 3",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-septiembre-2026/C%C3%B3mo-cultivar-un-coraz%C3%B3n-obediente/",
+      "textoClave": "salpicar con su sangre el marco",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-04",
+      "story_id": "actualidad",
+      "pregunta": "¿Qué clase de protección presenta Salmo 91 según el análisis de La Atalaya de septiembre de 2026?",
+      "respuesta": "Protección espiritual, emocional y física, sin justificar conductas temerarias.",
+      "opciones": [
+        "Una garantía de no enfermar nunca.",
+        "Únicamente protección contra animales salvajes.",
+        "Protección espiritual, emocional y física, sin justificar conductas temerarias.",
+        "Solo protección económica."
+      ],
+      "indiceCorrecto": 2,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Maestro",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Confiemos en que Jehová nos protegerá · párrs. 7-9",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-septiembre-2026/Confiemos-en-que-Jehov%C3%A1-nos-proteger%C3%A1/",
+      "textoClave": "protección espiritual, emocional y física",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-05",
+      "story_id": "actualidad",
+      "pregunta": "¿Por qué rechazó Jesús la propuesta de lanzarse desde el templo para probar la protección divina?",
+      "respuesta": "Porque habría sido poner a prueba a Jehová con una acción temeraria.",
+      "opciones": [
+        "Porque nunca había leído el Salmo 91.",
+        "Porque no creía en los ángeles.",
+        "Porque el templo no existía en esa época.",
+        "Porque habría sido poner a prueba a Jehová con una acción temeraria."
+      ],
+      "indiceCorrecto": 3,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Maestro",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Confiemos en que Jehová nos protegerá · párrs. 8-9",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-septiembre-2026/Confiemos-en-que-Jehov%C3%A1-nos-proteger%C3%A1/",
+      "textoClave": "No pongas a prueba a Jehová",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-06",
+      "story_id": "actualidad",
+      "pregunta": "¿De qué protege Jehová a sus siervos en sentido espiritual, según el artículo de estudio?",
+      "respuesta": "De los peligros que amenazan su amistad con él.",
+      "opciones": [
+        "De los peligros que amenazan su amistad con él.",
+        "De tener que estudiar personalmente.",
+        "De todas las decisiones difíciles sin hacer nada.",
+        "De cualquier necesidad de perseverar."
+      ],
+      "indiceCorrecto": 0,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Investigador",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Confiemos en que Jehová nos protegerá · párr. 11",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-septiembre-2026/Confiemos-en-que-Jehov%C3%A1-nos-proteger%C3%A1/",
+      "textoClave": "amenazar nuestra amistad con él",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-07",
+      "story_id": "actualidad",
+      "pregunta": "¿Por qué Saúl llegó a odiar a David, según el artículo “Podemos lograr la victoria”?",
+      "respuesta": "Sintió envidia cuando el pueblo alababa más a David que a él.",
+      "opciones": [
+        "Porque David quiso expulsar a todos de Israel.",
+        "Sintió envidia cuando el pueblo alababa más a David que a él.",
+        "Porque David se negó a tener amigos.",
+        "Porque Jonatán era el padre de David."
+      ],
+      "indiceCorrecto": 1,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Investigador",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Podemos lograr la victoria · párr. 4",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-agosto-2026/Podemos-lograr-la-victoria/",
+      "textoClave": "se llenó de envidia y odio",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-08",
+      "story_id": "actualidad",
+      "pregunta": "¿Cómo contrastó Jonatán con los celos de su padre Saúl?",
+      "respuesta": "Apoyó con humildad a David y aceptó que sería rey.",
+      "opciones": [
+        "Se negó a hablar con David.",
+        "Exigió que David le entregara su túnica.",
+        "Apoyó con humildad a David y aceptó que sería rey.",
+        "Acusó a David ante el pueblo."
+      ],
+      "indiceCorrecto": 2,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Experto",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Podemos lograr la victoria · párr. 6",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-agosto-2026/Podemos-lograr-la-victoria/",
+      "textoClave": "fue humilde y le ofreció todo su apoyo",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-09",
+      "story_id": "actualidad",
+      "pregunta": "¿Por qué una fe basada únicamente en el comportamiento de otros puede ser frágil?",
+      "respuesta": "Porque las acciones imperfectas de otras personas pueden decepcionarnos.",
+      "opciones": [
+        "Porque los demás nunca cometen errores.",
+        "Porque las emociones jamás cambian.",
+        "Porque investigar las Escrituras está desaconsejado.",
+        "Porque las acciones imperfectas de otras personas pueden decepcionarnos."
+      ],
+      "indiceCorrecto": 3,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Maestro",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Ponle a tu fe un fundamento sólido · sección inicial",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-octubre-2026/Ponle-a-tu-fe-un-fundamento-s%C3%B3lido/",
+      "textoClave": "se derrumbará con facilidad",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-10",
+      "story_id": "actualidad",
+      "pregunta": "¿Qué sostuvo la respuesta de Pedro cuando otros discípulos abandonaron a Jesús?",
+      "respuesta": "Estaba convencido de quién era Jesús y del valor de sus enseñanzas.",
+      "opciones": [
+        "Estaba convencido de quién era Jesús y del valor de sus enseñanzas.",
+        "Había entendido cada detalle de inmediato.",
+        "Jesús les había prometido riquezas.",
+        "Pedro no había escuchado el discurso."
+      ],
+      "indiceCorrecto": 0,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Experto",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Ponle a tu fe un fundamento sólido · sección “Una fe con un fundamento sólido”",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-octubre-2026/Ponle-a-tu-fe-un-fundamento-s%C3%B3lido/",
+      "textoClave": "Nosotros hemos creído y sabemos",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-11",
+      "story_id": "actualidad",
+      "pregunta": "¿Qué diferencia se destaca entre los discípulos que se fueron y los apóstoles que se quedaron?",
+      "respuesta": "Los apóstoles tenían una convicción que no dependía solo de las emociones.",
+      "opciones": [
+        "Pedro había prohibido escuchar a Jesús.",
+        "Los apóstoles tenían una convicción que no dependía solo de las emociones.",
+        "Los apóstoles nunca afrontaban dudas.",
+        "Los que se fueron eran todos gobernantes romanos."
+      ],
+      "indiceCorrecto": 1,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Experto",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Ponle a tu fe un fundamento sólido · sección “Una fe con un fundamento sólido”",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-octubre-2026/Ponle-a-tu-fe-un-fundamento-s%C3%B3lido/",
+      "textoClave": "no estaba basada en las emociones",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    },
+    {
+      "id": "w26-verificado-12",
+      "story_id": "actualidad",
+      "pregunta": "¿Qué respuesta dio Pedro cuando otros consideraron ofensivas ciertas enseñanzas de Jesús?",
+      "respuesta": "Afirmó que Jesús tenía palabras de vida eterna.",
+      "opciones": [
+        "Abandonó el grupo ese mismo día.",
+        "Propuso regresar a la sinagoga.",
+        "Afirmó que Jesús tenía palabras de vida eterna.",
+        "Pidió que Jesús dejara de enseñar."
+      ],
+      "indiceCorrecto": 2,
+      "pista": "Busca el párrafo o sección indicada; la frase del enlace debe aparecer resaltada si tu navegador lo admite.",
+      "nivel": "Maestro",
+      "fuente": "La Atalaya · edición de estudio 2026",
+      "pasaje": "Cómo ser leales ante las pruebas de fe · párr. 3",
+      "enlace": "https://www.jw.org/es/biblioteca/revistas/atalaya-estudio-junio-2026/C%C3%B3mo-ser-leales-ante-las-pruebas-de-fe/",
+      "textoClave": "Tú tienes palabras de vida eterna",
+      "tipo": "Estudio verificado",
+      "revisado": "2026-11-12"
+    }
+  ]
+}

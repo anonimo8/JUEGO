@@ -1,0 +1,10 @@
+V23 · COMPILACIÓN COMPLETA E INDEPENDIENTE
+- 24 elencos narrativos independientes: 278 encuentros en total; 6 escenas clave + voces de contexto por relato.
+- José contiene 19 encuentros: padre, hermanos, Potifar, esposa de Potifar, copero, panadero, prisión, faraón y Benjamín, entre otros.
+- 278 sprites por escena redibujados, con vestimenta y facciones diferenciadas; ocho protagonistas seleccionables (mujeres y hombres).
+- Escenarios de anchura variable para que todos los participantes estén presentes sin amontonarse.
+- Elenco consultable desde un botón en cada capítulo, y búsqueda desde el mapa.
+- Globos de diálogo con identidad, suceso, significado y pasaje bíblico.
+- Finalización clara y retorno al mapa tras preguntas, decisiones, rompecabezas, pupiletras, cronología y reconstrucción.
+- Interfaz con leyendas explicativas de las preguntas de investigación, sin iconos ambiguos.
+- Guardado autónomo localStorage V23 para no reutilizar archivos cacheados ni mezcla de estado visual antiguo.
