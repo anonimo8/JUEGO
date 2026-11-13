@@ -1,8 +1,0 @@
-{
-  "name": "caminos-de-fe-v15-lite",
-  "version": "15.0.0",
-  "private": true,
-  "scripts": {
-    "build": "node scripts/build.mjs"
-  }
-}
