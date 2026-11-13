@@ -1,0 +1,9 @@
+{
+  "name": "caminos-de-fe-cloudflare-pages",
+  "version": "25.1.0",
+  "private": true,
+  "description": "Caminos de Fe V25.1 - sitio web estático para Cloudflare Pages",
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
